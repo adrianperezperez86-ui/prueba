@@ -1,0 +1,14 @@
+body {
+background-color: black;
+}
+
+.titulos h1 {
+    color: yellow;
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 15px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 20px;
+    font-size: 70px;
+}
