@@ -1,10 +1,15 @@
+* {
+    /* Define que el padding y el border no aumenten el ancho total de los elementos */
+    box-sizing: border-box;
+}
+
 body {
     background-color: black;
-    /* --- Añadido/Modificado --- */
     min-height: 100vh;
     display: flex;
-    flex-direction: column; /* Apila los hijos verticalmente */
-    /* -------------------------- */
+    flex-direction: column;
+    /* CORRECCIÓN: Eliminar el margen por defecto del navegador */
+    margin: 0; 
 }
 
 .main-container {
@@ -28,42 +33,46 @@ body {
 .cartelera {
     display: grid;
     grid-gap: 20px;
-    grid-template-columns: repeat(auto-fill, minmax(200px,1fr));
+    /* AJUSTE TAMAÑO: Ancho mínimo de columna aumentado a 300px */
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     justify-content: center;
     gap: 20px;
-    padding: 20px;
-    margin: 0 auto;
-    max-width: 1200px;
-}   
+    /* AJUSTE SEPARACIÓN: Aumentar el padding lateral para separación de bordes */
+    padding: 20px 50px; 
+    margin: 0 10px;
+}
 
 .pelicula {
     background-color: #121212;
     border: 1px solid #333;
     border-radius: 10px;
-    width: 200px;  
+    /* AJUSTE TAMAÑO: Ocupar todo el ancho de la columna del grid */
+    width: 100%; 
     padding: 15px;
     text-align: center;
     transition: all 0.3s ease;
-    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1),0 4px 10px rgba(red, green, blue, 0.5);
+    /* CORRECCIÓN SINTAXIS */
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1), 0 4px 10px rgba(0, 0, 0, 0.5);
     padding: auto;
-
 }
 
 .pelicula:hover {
     transform: translateY(-8px) scale(1.02);
     border-color: yellow;
-    box-shadow: 0 5px 20px rgba(255, 255, blue, 0.2), 0 10px 30px rgba(red, green, blue, 0.7);
+    /* CORRECCIÓN SINTAXIS */
+    box-shadow: 0 5px 20px rgba(255, 255, 0, 0.2), 0 10px 30px rgba(255, 255, 0, 0.7);
 }
 
 .pelicula h1 {
     color: yellow;
-    font-size: 22px;
+    font-size: 26px; 
     margin: 5px 0 10px;
     border-bottom: 1px dashed #333;
     padding-bottom: 8px;
 }
 
 .pelicula img {
+    /* La imagen automáticamente se hace más grande porque su padre (pelicula) es más grande */
     width: 100%;
     border-radius: 8px;
     margin-bottom: 10px;
@@ -91,8 +100,6 @@ section {
     margin: auto;
 }
 
-
-
 section img {
     width: 150px;
     height: 100%;
@@ -110,3 +117,16 @@ section img:hover {
     opacity: 1;
     filter: grayscale(0%);
 }
+
+/* Botón generar */
+.generate-btn {
+    background: linear-gradient(90deg,#ffde00,#ffd000);
+    border: none;
+    color: #111;
+    padding: 8px 16px;
+    border-radius: 8px;
+    font-weight: 700;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+}
+.generate-btn:hover { transform: translateY(-2px); }

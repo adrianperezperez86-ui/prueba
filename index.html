@@ -3,56 +3,193 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Animes</title>
+    <title>Animes con API Dinámica</title>
     <link rel="stylesheet" href="stylesheet.css">
 </head>
 
-<link rel="stylesheet" href="stylesheet.css">
-
 <body>
     <div>
-
         <div class="titulos">
             <h1>Animes</h1>
+            
+            <div style="text-align:center; margin-top:10px;">
+                <button id="generar-todas" class="generate-btn" style="background-color:#1E90FF;">
+                    Para generar nuevos archivos, ejecuta: node ./watcher.js
+                </button>
+            </div>
+            
         </div>
 
         <div class="cartelera">
-            <div class="pelicula">
-                <h1>Jujutsu Kaisen</h1>
-                <p>diselo</p>
-                <img src="jujutsu-kaisen-desktop-mx3ayes02oru6dwr.png" alt="">
+            
+                        <div class="pelicula">
+                <a href="jujutsu-kaisen.html" style="text-decoration: none; color: inherit; display: block;">
+                    <h1>Jujutsu Kaisen</h1>
+                    <p>diselo</p>
+                    <img id="jujutsu-kaisen-poster" src="" alt="Cargando imagen de Jujutsu Kaisen..." data-anime-tag="Jujutsu Kaisen">
+                </a>
             </div>
+            
             <div class="pelicula">
-                <h1>Chainsaw Man</h1>
-                <p>diselo</p>
+                <a href="chainsaw-man.html" style="text-decoration: none; color: inherit; display: block;">
+                    <h1>Chainsaw Man</h1>
+                    <p>diselo</p>
+                    <img id="chainsaw-man-poster" src="" alt="Cargando imagen de Chainsaw Man..." data-anime-tag="Chainsaw Man">
+                </a>
             </div>
+            
             <div class="pelicula">
-                <h1>Attack on Titan</h1>
-                <p>diselo</p>
+                <a href="attack-on-titan.html" style="text-decoration: none; color: inherit; display: block;">
+                    <h1>Attack on Titan</h1>
+                    <p>diselo</p>
+                    <img id="attack-on-titan-poster" src="" alt="Cargando imagen de Attack on Titan..." data-anime-tag="Attack on Titan">
+                </a>
             </div>
+            
             <div class="pelicula">
-                <h1>Kakegurui</h1>
-                <p>diselo</p>
+                <a href="kakegurui.html" style="text-decoration: none; color: inherit; display: block;">
+                    <h1>Kakegurui</h1>
+                    <p>diselo</p>
+                    <img id="kakegurui-poster" src="" alt="Cargando imagen de Kakegurui..." data-anime-tag="Kakegurui">
+                </a>
             </div>
+            
             <div class="pelicula">
-                <h1>Demon Slayer</h1>
-                <p>Demon slayer</p>
+                <a href="my-hero-academia.html" style="text-decoration: none; color: inherit; display: block;">
+                    <h1>My Hero Academia</h1>
+                    <p>diselo</p>
+                    <img id="my-hero-academia-poster" src="" alt="Cargando imagen de My Hero Academia..." data-anime-tag="My Hero Academia">
+                </a>
             </div>
 
+            <div class="pelicula">
+                <a href="one-piece.html" style="text-decoration: none; color: inherit; display: block;">
+                    <h1>One Piece</h1>
+                    <p>diselo</p>
+                    <img id="one-piece-poster" src="" alt="Cargando imagen de One Piece..." data-anime-tag="One Piece">
+                </a>
+            </div>
+
+            <div class="pelicula">
+                <a href="black-clover.html" style="text-decoration: none; color: inherit; display: block;">
+                    <h1>Black Clover</h1>
+                    <p>diselo</p>
+                    <img id="black-clover-poster" src="" alt="Cargando imagen de Black Clover..." data-anime-tag="Black Clover">
+                </a>
+            </div>
+
+            <div class="pelicula">
+                <a href="solo-leveling.html" style="text-decoration: none; color: inherit; display: block;">
+                    <h1>Solo Leveling</h1>
+                    <p>diselo</p>
+                    <img id="solo-leveling-poster" src="" alt="Cargando imagen de Solo Leveling..." data-anime-tag="Solo Leveling">
+                </a>
+            </div>
+
+            <div class="pelicula">
+                <a href="spy-x-family.html" style="text-decoration: none; color: inherit; display: block;">
+                    <h1>SPY x FAMILY</h1>
+                    <p>diselo</p>
+                    <img id="spy-x-family-poster" src="" alt="Cargando imagen de SPY x FAMILY..." data-anime-tag="SPY x FAMILY">
+                </a>
+            </div>
+
+            <div class="pelicula">
+                <a href="blue-exorcist.html" style="text-decoration: none; color: inherit; display: block;">
+                    <h1>Blue Exorcist</h1>
+                    <p>diselo</p>
+                    <img id="blue-exorcist-poster" src="" alt="Cargando imagen de Blue Exorcist..." data-anime-tag="Blue Exorcist">
+                </a>
+            </div>
+
+            <div class="pelicula">
+                <a href="naruto.html" style="text-decoration: none; color: inherit; display: block;">
+                    <h1>Naruto</h1>
+                    <p>diselo</p>
+                    <img id="naruto-poster" src="" alt="Cargando imagen de Naruto..." data-anime-tag="Naruto">
+                </a>
+            </div>
+
+            <div class="pelicula">
+                <a href="gachiakuta.html" style="text-decoration: none; color: inherit; display: block;">
+                    <h1>Gachiakuta</h1>
+                    <p>diselo</p>
+                    <img id="gachiakuta-poster" src="" alt="Cargando imagen de Gachiakuta..." data-anime-tag="Gachiakuta">
+                </a>
+            </div>
+
+            <div class="pelicula">
+                <a href="cyberpunk.html" style="text-decoration: none; color: inherit; display: block;">
+                    <h1>Cyberpunk</h1>
+                    <p>diselo</p>
+                    <img id="cyberpunk-poster" src="" alt="Cargando imagen de Cyberpunk..." data-anime-tag="Cyberpunk">
+                </a>
+            </div>
+
+            <div class="pelicula">
+                <a href="sakamoto-days.html" style="text-decoration: none; color: inherit; display: block;">
+                    <h1>Sakamoto Days</h1>
+                    <p>diselo</p>
+                    <img id="sakamoto-days-poster" src="" alt="Cargando imagen de Sakamoto Days..." data-anime-tag="Sakamoto Days">
+                </a>
+            </div>
+
+            <div class="pelicula">
+                <a href="haikyu.html" style="text-decoration: none; color: inherit; display: block;">
+                    <h1>Haikyu!!</h1>
+                    <p>diselo</p>
+                    <img id="haikyu-poster" src="" alt="Cargando imagen de Haikyu!!..." data-anime-tag="Haikyu!!">
+                </a>
+            </div>
+
+            <div class="pelicula">
+                <a href="hunter-x-hunter.html" style="text-decoration: none; color: inherit; display: block;">
+                    <h1>Hunter x Hunter</h1>
+                    <p>diselo</p>
+                    <img id="hunter-x-hunter-poster" src="" alt="Cargando imagen de Hunter x Hunter..." data-anime-tag="Hunter x Hunter">
+                </a>
+            </div>
+
+            <div class="pelicula">
+                <a href="dan-da-dan.html" style="text-decoration: none; color: inherit; display: block;">
+                    <h1>Dan Da Dan</h1>
+                    <p>diselo</p>
+                    <img id="dan-da-dan-poster" src="" alt="Cargando imagen de Dan Da Dan..." data-anime-tag="Dan Da Dan">
+                </a>
+            </div>
+            
+            <div class="pelicula">
+                <a href="carlitos.html" style="text-decoration: none; color: inherit; display: block;">
+                    <h1>Carlitos</h1>
+                    <p>diselo</p>
+                    <img id="carlitos-poster" src="" alt="Cargando imagen de Carlitos..." data-anime-tag="Carlitos">
+                </a>
+            </div>
+
+            <div class="pelicula">
+                <a href="frieren.html" style="text-decoration: none; color: inherit; display: block;">
+                    <h1>Frieren</h1>
+                    <p>diselo</p>
+                    <img id="frieren-poster" src="" alt="Cargando imagen de Frieren..." data-anime-tag="Frieren">
+                </a>
+            </div>
+            
         </div>
-<div>
-    
-            <section>
-
+        
+        <div>
+            <section class="section-container">
                 <img src="eren-titan-attacking-q1mt53wfnx7pnv80.png" alt="">
-                <img src="attack-on-titan-characters-dramatic-levi-i64jwfpbqmcusu17.png" alt="">
+                <img src="levi.png" alt="">
                 <img src="4e3135138017593.62155bc4bb1ad.png" alt="">
-                <img src="c7e57a0cb785e3402d581db2bf9872d9.png" alt="">
-                <img src="ca4409e047f3740a90fa3b913ba79b2f.png" alt="">
-                
+                <img src="eren.png" alt="">
+                <img src="mikasa.png" alt="">
+                <img src="levi2.png" alt="">
+                <img src="epic-showdown-attack-on-titan.png" alt="">
             </section>
-
-</div>
+        </div>
     </div>
+
+    <script src="api_handler.js"></script>
+    <script src="generador.js"></script> 
 </body>
 </html>
