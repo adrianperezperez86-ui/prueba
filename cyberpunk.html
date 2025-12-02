@@ -6,6 +6,7 @@
     <title>Cyberpunk - Anime</title>
     <link rel="stylesheet" href="stylesheet.css">
     <link rel="stylesheet" href="cyberpunk.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 
 <body>
@@ -18,7 +19,7 @@
         <div class="anime-details">
             
             <div class="pelicula">
-                <img id="cyberpunk-poster" src="" alt="Cargando imagen de Cyberpunk..." data-anime-tag="Cyberpunk">
+                <img id="cyberpunk-poster" src="https://media.kitsu.app/anime/43248/poster_image/15bde2e7e34cfe1df761535a69faffb8.png" alt="Póster de Cyberpunk">
             </div>
             
             <div class="contenido-sinopsis">
@@ -32,9 +33,24 @@ En una distopía plagada de corrupción e implantes cibernéticos, un niño de l
 Nota: El primer episodio recibió una proyección previa en Anime Expo el 2 de julio de 2022. Los primeros 3 episodios doblados se transmitieron en Twitch como parte de una promoción de transmisión conjunta el 12 de septiembre, un día antes del estreno del programa.</p>
             </div>
         </div>
+        
+        <div class="galeria-seccion">
+            <div class="titulos">
+                <h1>Galería de Personajes</h1> 
+            </div>
+
+            <div class="galeria-wrapper">
+                <button class="nav-arrow left" id="arrow-left"><i class="fas fa-chevron-left"></i></button>
+                <section class="section-container" id="galeria-scroll">
+                    <p>Galería de personajes no disponible.</p>
+                </section>
+                <button class="nav-arrow right" id="arrow-right"><i class="fas fa-chevron-right"></i></button>
+            </div>
+            <br><br><br><br><br>
+        </div>
 
     </div>
 
-    <script src="api_handler.js"></script>
+    <script src="galeria_handler.js"></script> 
 </body>
 </html>

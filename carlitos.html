@@ -6,6 +6,7 @@
     <title>Carlitos - Anime</title>
     <link rel="stylesheet" href="stylesheet.css">
     <link rel="stylesheet" href="carlitos.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 
 <body>
@@ -18,7 +19,7 @@
         <div class="anime-details">
             
             <div class="pelicula">
-                <img id="carlitos-poster" src="" alt="Cargando imagen de Carlitos..." data-anime-tag="Carlitos">
+                <img id="carlitos-poster" src="https://media.kitsu.app/anime/poster_images/3678/original.jpg" alt="Póster de Carlitos">
             </div>
             
             <div class="contenido-sinopsis">
@@ -26,9 +27,45 @@
                 <p>En el siglo XIX, encontramos a Lydia Carlton viviendo en Escocia, ganándose la vida como doctora de hadas.Ella es uno de esos raros humanos que pueden ver y comunicarse con las hadas.Pero nadie le cree.Sin embargo, Edgar necesita a alguien con un vasto conocimiento de la historia de las hadas, y Lydia es precisamente esa persona.Después de rescatarla, se convierte en su empleador, pero hay muchos secretos y emociones que parecen seguir a Edgar, quien dice ser el Conde del Caballero Azul.</p>
             </div>
         </div>
+        
+        <div class="galeria-seccion">
+            <div class="titulos">
+                <h1>Galería de Personajes</h1> 
+            </div>
+
+            <div class="galeria-wrapper">
+                <button class="nav-arrow left" id="arrow-left"><i class="fas fa-chevron-left"></i></button>
+                <section class="section-container" id="galeria-scroll">
+                    <div class="personaje-galeria-wrapper">
+                <img src="https://cdn.myanimelist.net/images/characters/5/130369.jpg?s=75a5810161c3ff74226f1f6c94bd2527" alt="Imagen de Daniel, Dear">
+                <div class="personaje-tooltip">
+                    <h4>Daniel, Dear</h4>
+                    <p>Rol: Main</p>
+                    <p>Voz: Desconocido</p>
+                </div>
+            </div><div class="personaje-galeria-wrapper">
+                <img src="https://cdn.myanimelist.net/images/characters/15/130365.jpg?s=5131953d908c9a9e36f33ec652c44d75" alt="Imagen de White, Mimmy">
+                <div class="personaje-tooltip">
+                    <h4>White, Mimmy</h4>
+                    <p>Rol: Main</p>
+                    <p>Voz: Desconocido</p>
+                </div>
+            </div><div class="personaje-galeria-wrapper">
+                <img src="https://cdn.myanimelist.net/images/characters/2/130129.jpg?s=7615070a43af94cbb028f563da0a7fc4" alt="Imagen de White, Kitty">
+                <div class="personaje-tooltip">
+                    <h4>White, Kitty</h4>
+                    <p>Rol: Main</p>
+                    <p>Voz: Hayashibara, Megumi</p>
+                </div>
+            </div>
+                </section>
+                <button class="nav-arrow right" id="arrow-right"><i class="fas fa-chevron-right"></i></button>
+            </div>
+            <br><br><br><br><br>
+        </div>
 
     </div>
 
-    <script src="api_handler.js"></script>
+    <script src="galeria_handler.js"></script> 
 </body>
 </html>
