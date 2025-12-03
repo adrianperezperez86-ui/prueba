@@ -1,0 +1,211 @@
+/* Estilos personalizados para Frieren */
+/* Generado automáticamente por watcher.js */
+
+/* CONTENEDOR PRINCIPAL: ALINEA IMAGEN Y SINOPSIS (Flexbox) */
+.anime-details {
+    display: flex;
+    gap: 40px; 
+    padding: 40px 50px;
+    align-items: flex-start; 
+    flex-wrap: nowrap;
+}
+
+/* LA IMAGEN (div.pelicula) */
+.anime-details .pelicula {
+    flex-basis: 350px; 
+    flex-shrink: 0; 
+    padding: 0;
+    margin: 0; 
+    box-shadow: none;
+    border: none;
+    cursor: default; 
+}
+
+/* Ocultamos elementos redundantes */
+.anime-details .pelicula h1, 
+.anime-details .pelicula p {
+    display: none; 
+}
+
+/* LA SINOPSIS (div.contenido-sinopsis) */
+.contenido-sinopsis {
+    flex-grow: 1; 
+    background-color: #1a1a1a;
+    border: 1px solid #333;
+    border-radius: 10px;
+    padding: 30px;
+    color: #f0f0f0;
+}
+
+.contenido-sinopsis h2 {
+    color: yellow;
+    font-size: 40px;
+    margin-bottom: 15px;
+    text-shadow: 0 0 10px rgba(255, 255, 0, 0.3);
+}
+
+.contenido-sinopsis p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #ddd;
+    text-align: justify;
+}
+
+/* ------------------------------------------- */
+/* --- ESTILOS DE LA GALERÍA DE PERSONAJES --- */
+/* ------------------------------------------- */
+
+.galeria-seccion {
+    padding: 20px 0; 
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Nuevo contenedor para envolver la galería y las flechas */
+.galeria-wrapper {
+    position: relative;
+    display: flex; /* Para alinear flechas y contenedor de scroll */
+    align-items: center;
+    width: 95vw; /* Más ancho para que quepan las flechas */
+    margin: auto;
+}
+
+/* El contenedor que define el área de visualización */
+.section-container {
+    display: flex;
+    flex-grow: 1; 
+    width: 100%; 
+    height: 50vh;
+    gap: 25px; /* Más espacio entre imágenes */
+    overflow-x: scroll; 
+    overflow-y: hidden;
+    border-radius: 18px;
+    background-color: #111; 
+    padding: 20px;
+    white-space: nowrap; 
+    scroll-behavior: smooth;
+    justify-content: flex-start;
+    
+    /* MEJORA VISUAL: Borde y sombra */
+    border: 1px solid rgba(255, 255, 0, 0.3);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5), 0 0 10px rgba(255, 255, 0, 0.1); 
+
+    /* OCULTAR BARRA DE SCROLL */
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+/* Regla para ocultar la barra de scroll en Chrome/Safari */
+.section-container::-webkit-scrollbar {
+    display: none;
+}
+
+/* Estilos para las flechas de navegación */
+.nav-arrow {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: yellow;
+    border: none;
+    padding: 15px 10px;
+    font-size: 24px;
+    cursor: pointer;
+    z-index: 20;
+    transition: background-color 0.3s, transform 0.3s;
+    outline: none;
+    height: 120px; /* Un poco más grandes */
+    border-radius: 12px;
+    margin: 0 15px;
+    flex-shrink: 0;
+    box-shadow: 0 0 15px rgba(255, 255, 0, 0.2); /* Sombra suave */
+}
+
+.nav-arrow:hover {
+    background-color: rgba(0, 0, 0, 0.95);
+    transform: scale(1.1);
+}
+
+/* Contenedor individual de la imagen y el tooltip */
+.personaje-galeria-wrapper {
+    position: relative; 
+    width: 180px; /* Imágenes un poco más anchas */
+    height: 100%;
+    flex-shrink: 0;
+    /* Esto es clave: si el elemento padre no tiene overflow:hidden, el hijo que se mueve NO se recorta */
+    overflow: visible; 
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+    border-radius: 12px;
+}
+
+/* Estilos de la imagen */
+.personaje-galeria-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.9;
+    border-radius: 12px;
+    flex-shrink: 0;
+    /* Tono artístico inicial */
+    filter: sepia(60%) contrast(1.1); 
+    transition: all 0.4s ease;
+    border: 2px solid #333; /* Borde interior sutil */
+}
+
+/* *** CORRECCIÓN DEL HOVER (SUAVE Y SIN RECORTE) *** */
+.personaje-galeria-wrapper:hover {
+    cursor: pointer;
+    /* Solo levanta 5px (menos agresivo que 10px y no escala) */
+    transform: translateY(-5px); 
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.8), 0 0 15px rgba(255, 255, 0, 0.3); 
+    z-index: 10;
+}
+.personaje-galeria-wrapper:hover img {
+    opacity: 1;
+    /* Restaura color y satura ligeramente */
+    filter: grayscale(0%) saturate(1.2) contrast(1);
+    border-color: yellow; /* Destaca el borde */
+}
+/* *** FIN CORRECCIÓN DEL HOVER *** */
+
+
+/* Estilos del Tooltip Desplegable (Información) */
+.personaje-tooltip {
+    position: absolute;
+    top: 50%; 
+    left: 100%; 
+    /* Efecto de movimiento al aparecer */
+    transform: translateY(-50%) translateX(25px); 
+    width: 250px; 
+    background-color: #2c2c2c;
+    border: 2px solid #4CAF50;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 0 20px rgba(76, 175, 80, 0.4); 
+    opacity: 0; 
+    visibility: hidden;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    z-index: 15; 
+    color: #fff;
+    pointer-events: none; 
+}
+
+.personaje-tooltip h4 {
+    margin: 0 0 8px 0;
+    color: yellow;
+    font-size: 20px; 
+    text-shadow: 0 0 5px rgba(255, 255, 0, 0.3);
+}
+
+.personaje-tooltip p {
+    margin: 0;
+    font-size: 15px;
+    color: #ccc;
+    line-height: 1.4;
+}
+
+/* Mostrar el tooltip al hacer hover en el wrapper */
+.personaje-galeria-wrapper:hover .personaje-tooltip {
+    opacity: 1;
+    visibility: visible;
+    /* Vuelve a la posición estándar (efecto de movimiento) */
+    transform: translateY(-50%) translateX(15px); 
+}

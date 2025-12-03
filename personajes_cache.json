@@ -1,0 +1,3375 @@
+{
+  "Jujutsu Kaisen": [
+    {
+      "nombre": "Fushiguro, Megumi",
+      "seiyuu": "Uchida, Yuuma",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/392689.jpg?s=2395a10b59bb54ec9891c74ef214fea1",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Gojou, Satoru",
+      "seiyuu": "Nakamura, Yuuichi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/422168.jpg?s=7c1dfc26a9b3a6652da616a0fec7af01",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Itadori, Yuuji",
+      "seiyuu": "Enoki, Junya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/467646.jpg?s=9e1cb7b0c6c7f145661e8ee93f32215d",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Kugisaki, Nobara",
+      "seiyuu": "Seto, Asami",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/422313.jpg?s=053db48815610ce7fdc280f62a3499ce",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Aida",
+      "seiyuu": "Kajikawa, Shohei",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/566390.jpg?s=74c945aeba3a77b79c11b4fc9ebbe561",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Chousou",
+      "seiyuu": "Namikawa, Daisuke",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/524177.jpg?s=91bbde7d801299f3ff1fb5d8388cc133",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Dagon",
+      "seiyuu": "Endou, Aya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/564915.jpg?s=ffe03656fac00133a212bf5e7d7bc83b",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Esou",
+      "seiyuu": "Hiyama, Nobuyuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/436204.jpg?s=04b60749369f8eed82c3642692b6149f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Finger Bearer",
+      "seiyuu": "Satou, Setsuji",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/548633.jpg?s=af8a09cdad9bcaabc568ec7c8c2357a1",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Fujinuma",
+      "seiyuu": "Sakuraba, Arisa",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/449238.jpg?s=b4950c4f679826fcf2a1f8ad0c6830b2",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Fujinuma's Brother",
+      "seiyuu": "Matsuda, Shuuhei",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/449239.jpg?s=3c34648d5937ace1908e0d7229bb4c65",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Fushiguro, Tsumiki",
+      "seiyuu": "Hayami, Saori",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/437005.jpg?s=2a852781a432ec72ded62564ca762e9f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Gakuganji, Yoshinobu",
+      "seiyuu": "Mugihito",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/432951.jpg?s=6075ec5edcf8f70b87a8e774b89270ed",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Getou, Suguru",
+      "seiyuu": "Sakurai, Takahiro",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/524519.jpg?s=fb4ea8326be8d844e4fb0ac847d57c00",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Hakari, Kinji",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/559400.jpg?s=1b7f97a791d187466bc9b49bf0f0cf40",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Hanami",
+      "seiyuu": "Tanaka, Atsuko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/414242.jpg?s=4543a6b62596f1adf3c1f24fd2f96185",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ieiri, Shouko",
+      "seiyuu": "Endou, Aya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/423951.jpg?s=5287a63c8b798f195d1db973df2351de",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Iguchi, Takeshi",
+      "seiyuu": "Sumi, Takahiro",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/419230.jpg?s=90e4a46bf449a2a2115d9d17df306c00",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ijichi, Kiyotaka",
+      "seiyuu": "Iwata, Mitsuo",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/435400.jpg?s=7641415da13f5692548ab97229ec46c3",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ino, Takuma",
+      "seiyuu": "Hayashi, Yuu",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/436201.jpg?s=659f941ad1937269825fbfe1a857d94c",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Inumaki, Toge",
+      "seiyuu": "Uchiyama, Kouki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/521636.jpg?s=ef7b20ebe6e134fc94303c86e5cd1268",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Iori, Utahime",
+      "seiyuu": "Hikasa, Youko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/435404.jpg?s=1627d13c26f9f395bd3c4f286c743bfc",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Itadori, Wasuke",
+      "seiyuu": "Chiba, Shigeru",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/470647.jpg?s=319174a02b6088aa43789ea4b6227c0d",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Itou, Shouta",
+      "seiyuu": "Mogi, Takamasa",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/449224.jpg?s=4cfb41d1c4582120912bb7ff814eb8de",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Jougo",
+      "seiyuu": "Chiba, Shigeru",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/415336.jpg?s=1c6800fbf4d7e4620a8600cd118a0506",
+      "rol": "Supporting"
+    }
+  ],
+  "Chainsaw Man": [
+    {
+      "nombre": "Denji",
+      "seiyuu": "Toya, Kikunosuke",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/492407.jpg?s=4d8e9a01dac6a5d891c3ed434187fba9",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Hayakawa, Aki",
+      "seiyuu": "Sakata, Shougo",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/395003.jpg?s=d0d59f9d3f6d5aa89534c8b16433cf74",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Makima",
+      "seiyuu": "Kusunoki, Tomori",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/489561.jpg?s=6593bd49704ffb415d3fd9d40e5dc183",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Power",
+      "seiyuu": "Fairouz Ai",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/494969.jpg?s=02622d6ffa487b8d6d7503af4792a106",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Angel Devil",
+      "seiyuu": "Uchida, Maaya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/586726.jpg?s=aff903523f5ae6598fa12678b20e8b1f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Arai, Hirokazu",
+      "seiyuu": "Yashiro, Taku",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/492241.jpg?s=1e90b4a11075e3f18cbb510312a242f8",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Bat Devil",
+      "seiyuu": "Matsuda, Kenichirou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/492352.jpg?s=24fb0f331ac694d67d621656c3e2dd08",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Beam",
+      "seiyuu": "Hanae, Natsuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/467960.jpg?s=4e1f02b684fec0b1f5cfccd56b364ca6",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Black-Haired Division Member",
+      "seiyuu": "Kurosawa, Tsuyoshi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/500931.jpg?s=de7a9b7c7913d22dc274cde146d75d9d",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Brown-Haired Division Member",
+      "seiyuu": "Kokubu, Satsuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/500933.jpg?s=557963af92a566deedca20d0a52814b7",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Curse Devil",
+      "seiyuu": "Ueda, Yuuko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/496871.jpg?s=42f17627cfeee37cb65bc33a93a6c412",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Eternity Devil",
+      "seiyuu": "Kondou, Hironori",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/495670.jpg?s=07b5db46c15d0e532c2ee0b478fa1b65",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Fox Devil",
+      "seiyuu": "Kaida, Yuuko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/449645.jpg?s=79842a7b311bd3472c4fa6aa179ecdb9",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Furuno",
+      "seiyuu": "Soungdok",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/498881.jpg?s=cf66225ac65cb1251e9ceda2823cfbef",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Fushi",
+      "seiyuu": "Kobayashi, Chikahiro",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/494527.jpg?s=8d71ab0b08651a9e08609c6c05aabae6",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Future Devil",
+      "seiyuu": "Hiroki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/497487.jpg?s=4dac50c533fb8e28a0bd3b4a30cd33c4",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Galgali",
+      "seiyuu": "Uchida, Yuuya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/467962.jpg?s=cd80b7f33513a6b6e3d5d4889f866b71",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ghost Devil",
+      "seiyuu": "Kiso, Hiroko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/495252.jpg?s=6de26e93d444cb4e150b4ff79ca9a01c",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Hayakawa, Taiyou",
+      "seiyuu": "Nakatomi, Mana",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/493757.jpg?s=bfbe3189b1608f05c71a671de822b867",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Hayakawa's Father",
+      "seiyuu": "Ueda, Youji",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/493755.jpg?s=8eb8a4734df4619e0bc78db06cc23313",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Hayakawa's Mother",
+      "seiyuu": "Saitou, Eri",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/493756.jpg?s=586bcbb99349626ca0eff0fca031d1d3",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Henchman",
+      "seiyuu": "Uezumiya, Takashi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/490528.jpg?s=0acc180ac8d9942cb2e22202aebc8ad0",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Higashiyama, Kobeni",
+      "seiyuu": "Takahashi, Karin",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/467961.jpg?s=62b404edd1edcea21a0fb16f230f3916",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Himeno",
+      "seiyuu": "Ise, Mariya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/386392.jpg?s=587b426444b95d23293c9b8f1aa38450",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Himeno's Younger Sister",
+      "seiyuu": "Matsumoto, Sara",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/498903.jpg?s=18c7033c640e5b147c4aff612f669f8a",
+      "rol": "Supporting"
+    }
+  ],
+  "Attack on Titan": [
+    {
+      "nombre": "Ackerman, Mikasa",
+      "seiyuu": "Ishikawa, Yui",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/215563.jpg?s=5b0650bb09a7e053afc6bad84ab48947",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Arlert, Armin",
+      "seiyuu": "Inoue, Marina",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/220267.jpg?s=afa2751e2201aba1f5179544e787ba1a",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Yeager, Eren",
+      "seiyuu": "Kaji, Yuuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/216895.jpg?s=ccb6539cbfc5462df97d61a48c52af93",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Abel",
+      "seiyuu": "Yoshikai, Kiyohito",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/329189.jpg?s=9d5b3f38b3b94a872a8a10b187faf579",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ackerman, Father",
+      "seiyuu": "Endou, Daichi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/206391.jpg?s=12136b2bd14eb6d8fbfad22e255f14cd",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ackerman, Mother",
+      "seiyuu": "Hirose, Yuuka",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/206389.jpg?s=dc26854a45cdc2a56d852062f77f58bc",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Arlert, Grandfather",
+      "seiyuu": "Satou, Masaharu",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/206359.jpg?s=c86947918d765381f67f94da4ce0f5d1",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Balto",
+      "seiyuu": "Takaguchi, Kousuke",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/206405.jpg?s=a3dc07eb93070c0e403d4b0bc41fb0c5",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Berner, Moblit",
+      "seiyuu": "Nishi, Rintarou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/215963.jpg?s=9a3917bb9d7f4f66bec1ecbbc2f06262",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Blouse, Sasha",
+      "seiyuu": "Kobayashi, Yuu",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/251937.jpg?s=3fa60ed09de9a2a8e46d30099e50e6c4",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Bott, Marco",
+      "seiyuu": "Oosaka, Ryouta",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/208125.jpg?s=08d3dee93c0fd370b58190d7df1e553a",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Bozado, Mother",
+      "seiyuu": "Kodaira, Yuuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/221737.jpg?s=fdb626f5cf24d0ca053b986b27a6d82e",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Bozado, Oluo",
+      "seiyuu": "Kawada, Shinji",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/215969.jpg?s=7eab21c70736fee43c842ae659fc6893",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Bozado, Father",
+      "seiyuu": "Nishina, Youhei",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/221739.jpg?s=be6f01fc6578b7ce3f944202c6a04f21",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Braun, Reiner",
+      "seiyuu": "Hosoya, Yoshimasa",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/206489.jpg?s=e48695a419dc6e71c831d7481a5fc86f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Brzenska, Riko",
+      "seiyuu": "Kaiden, Michiko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/212007.jpg?s=63ac69046e847cac6d6dd17afa15cafa",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Carolina, Mina",
+      "seiyuu": "Anzai, Chika",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/204093.jpg?s=fb90a1cf55c1cc79839aff188ef23357",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Dazz",
+      "seiyuu": "Takubo, Shuuhei",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/206363.jpg?s=0b98f868ed5527fbd501be26b432043f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Diamant, Hannah",
+      "seiyuu": "Satou, Megumi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/206445.jpg?s=3a75cd869aab0b86533e977b7f3f3f0e",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Dieter",
+      "seiyuu": "Sasaki, Yoshihito",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/221751.jpg?s=2a4a771509ecfe7b345ea42017b1d31a",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Dietrich, Ian",
+      "seiyuu": "Murakami, Yuya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/206457.jpg?s=b99b60126559ee5de233321d90107cd4",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Dok, Nile",
+      "seiyuu": "Katsu, Anri",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/213233.jpg?s=016cc4adc473b134164d4bbaf27345b4",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Dreyse, Hitch",
+      "seiyuu": "Watanabe, Akeno",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/220845.jpg?s=7324d39cc7811d8c86267adc4ff10eb0",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Eibringer, Dennis",
+      "seiyuu": "Ogino, Seirou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/221747.jpg?s=1ad1fbc588e89632aee4230aab37ccf6",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Eld's lover",
+      "seiyuu": "Kirishima, Yuka",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/221729.jpg?s=404ab29135d9909f7e93325e5f34f298",
+      "rol": "Supporting"
+    }
+  ],
+  "Kakegurui": [
+    {
+      "nombre": "Jabami, Yumeko",
+      "seiyuu": "Hayami, Saori",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/467162.jpg?s=ba18c25d91c8577d298979b1b7839ad2",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Saotome, Mary",
+      "seiyuu": "Tanaka, Minami",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/586168.jpg?s=01038d7deaddf932a4a6acf545779968",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Suzui, Ryouta",
+      "seiyuu": "Tokutake, Tatsuya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/467161.jpg?s=0ad3ffba479649413d23f808a871247a",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Igarashi, Sayaka",
+      "seiyuu": "Fukuhara, Ayaka",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/586188.jpg?s=dd96c60d3b3b15cd60bdbbddb1be79f1",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ikishima, Midari",
+      "seiyuu": "Ise, Mariya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/322953.jpg?s=1d74e5303d16f03d3b0110b139e87e92",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kaede's Father",
+      "seiyuu": "Genda, Tesshou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/593070.jpg?s=0e3fe2452d378c86cdebcea62f706ab1",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kiwatari, Jun",
+      "seiyuu": "Egawa, Hisao",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/339488.jpg?s=ee8e73c0907efd1f3029acd11a5611e6",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kumagusu",
+      "seiyuu": "Shimizu, Haruka",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/546475.jpg?s=2fb986fef4311c8a14945e7488171763",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Manyuda, Kaede",
+      "seiyuu": "Sugita, Tomokazu",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/586186.jpg?s=71812b4b61cc0e482cdfde02dd3581a7",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Momobami, Ririka",
+      "seiyuu": "Sawashiro, Miyuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/401074.jpg?s=f54fb0b6b9be49ed34ba2e2dc68234e2",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Momobami, Kirari",
+      "seiyuu": "Sawashiro, Miyuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/586184.jpg?s=dab1ec36eda7807dafe02685f9aace44",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Nishinotouin, Yuriko",
+      "seiyuu": "Nanami, Karin",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/586177.jpg?s=ed763e2fb17c24ae466111cc62e621c9",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Saori",
+      "seiyuu": "Shouji, Umeka",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/479812.jpg?s=313d2eaeaf628010f97eb877b1cc36f0",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Shinnouji",
+      "seiyuu": "Kobushi, Nobuyuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/558944.jpg?s=405878cea31a25f16a6b3941e0f2d2fd",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Sumeragi, Itsuki",
+      "seiyuu": "Wakai, Yuuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/401083.jpg?s=8e703e5c8a425d9ef2970aa2f4cb4010",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Tsubomi, Nanami",
+      "seiyuu": "Iguchi, Yuka",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/466978.jpg?s=5eabb09aac784b01bf1682b1c35516ba",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Yomozuki, Runa",
+      "seiyuu": "Udono, Mayu",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/586187.jpg?s=c37df0f0c626c6e7a9795af2b00c2b5f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Yumemite, Yumemi",
+      "seiyuu": "Serizawa, Yuu",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/586178.jpg?s=0ebcc8d1df0523ea590d85c6658c0454",
+      "rol": "Supporting"
+    }
+  ],
+  "My Hero Academia": [
+    {
+      "nombre": "All Might",
+      "seiyuu": "Miyake, Kenta",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/310613.jpg?s=2bb273c38247c38003176367645e6488",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Bakugou, Katsuki",
+      "seiyuu": "Okamoto, Nobuhiko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/299406.jpg?s=7ce7f3b38b2ebe0fd31b3a313fa14fe9",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Iida, Tenya",
+      "seiyuu": "Ishikawa, Kaito",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/299417.jpg?s=ae97d822ef7c4cdbe392766389c3f5f1",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Midoriya, Izuku",
+      "seiyuu": "Yamashita, Daiki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/299404.jpg?s=6a448d3702c1d3185ed7ad8f0b8484f0",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Uraraka, Ochako",
+      "seiyuu": "Sakura, Ayane",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/299421.jpg?s=5c7499bacd3f2c8f4238253a5877c757",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Aizawa, Shouta",
+      "seiyuu": "Suwabe, Junichi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/301855.jpg?s=30bde8aa7f840805f22ab894a1eca521",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "All For One",
+      "seiyuu": "Ootsuka, Akio",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/370136.jpg?s=9a8bbc134d9c1719cacb71c58d863e72",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Aoyama, Yuuga",
+      "seiyuu": "Kuwano, Kousuke",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/300752.jpg?s=9d07d0a55f0a3237206588553b8bf1d1",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ashido, Mina",
+      "seiyuu": "Kitamura, Eri",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/329525.jpg?s=9d19261a645b157c6533a9c883b4a2df",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Asui, Tsuyu",
+      "seiyuu": "Yuuki, Aoi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/299409.jpg?s=007a26c2a56f15a578815945d1bb2d53",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Backdraft",
+      "seiyuu": "Matsuda, Shuuhei",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/301657.jpg?s=714180f01de95f4ff5b32843fbc14395",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Bye-Bites",
+      "seiyuu": "Mogami, Tsuguo",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/478501.jpg?s=7008d4c10a22c5bf653f1bb924d59020",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Desutegoro",
+      "seiyuu": "Ogami, Shinnosuke",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/301656.jpg?s=46bf63ab2f008153fa04a581629778ff",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Dozaemon",
+      "seiyuu": "Ookuma, Kenta",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/478502.jpg?s=df1089bec9815f0bf3b6f093d57cc2be",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ectoplasm",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/331374.jpg?s=008f85b12e070b86d3da6144c2e37c1b",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Female Reporter",
+      "seiyuu": "Shimamura, Yuu",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/336359.jpg?s=172bbefb9ff8f9dd129fb8b4ec390aaf",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Giant Villain",
+      "seiyuu": "Murakami, Yuya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/307374.jpg?s=a2e47c1a388a1d7a803197cecee5b8cf",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Hagakure, Tooru",
+      "seiyuu": "Nazuka, Kaori",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/301045.jpg?s=cc99e993a37c8b98554a18f81c26b538",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ishiyama, Ken",
+      "seiyuu": "Ookuma, Kenta",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/333078.jpg?s=daf44d725c55e25c7ffbf6547bdcab53",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Jirou, Kyouka",
+      "seiyuu": "Shindou, Kei",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/300745.jpg?s=c0e7c66c088b06ea9d3806ce852e84f4",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kaminari, Denki",
+      "seiyuu": "Hatanaka, Tasuku",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/329527.jpg?s=bdd623918f5fa850d8f2e877318a4a0b",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kan, Sekijirou",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/326355.jpg?s=2d5694f827c0dc22ea9c9774ce69f914",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kayama, Nemuri",
+      "seiyuu": "Watanabe, Akeno",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/366576.jpg?s=ef9b62fe75f8744d82dc6b206d3e33fb",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kirishima, Eijirou",
+      "seiyuu": "Masuda, Toshiki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/329529.jpg?s=cbfca4fce697447408c68a94d519b1b0",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kouda, Kouji",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/301044.jpg?s=b41351f86e128d6086aa27f93bc94dbe",
+      "rol": "Supporting"
+    }
+  ],
+  "One Piece": [
+    {
+      "nombre": "El Drago",
+      "seiyuu": "Utsumi, Kenji",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/384809.jpg?s=fd7cd170304f5814ca58b2277cb889f9",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Ganzo",
+      "seiyuu": "Aono, Takeshi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/384807.jpg?s=3b8e41e580bf8632f7e3af79568c1b2c",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Monkey D., Luffy",
+      "seiyuu": "Tanaka, Mayumi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/310307.jpg?s=3a27ab33bee665febfba970f24f203ba",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Nami",
+      "seiyuu": "Okamura, Akemi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/263249.jpg?s=e6c7015918ec37d6b31d680f8944790c",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Roronoa, Zoro",
+      "seiyuu": "Nakai, Kazuya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/100534.jpg?s=4a00840eacc26e9ad86bae6f505e4826",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Tobio",
+      "seiyuu": "Imai, Yuka",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/384808.jpg?s=46684e3a0906a9eeec416e7de3cbcf15",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Usopp",
+      "seiyuu": "Yamaguchi, Kappei",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/188076.jpg?s=f24eccad7d76e7747895a9a945d8a3ed",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Bastar, Gill",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/598208.jpg?s=4dc23f3f4b22f7f223e6dbf5bbdbb45a",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Danny",
+      "seiyuu": "Kasai, Shinsuke",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/384810.jpg?s=a1f4d523fc354899163daeb5e207b60d",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Denny",
+      "seiyuu": "Ito, Toshihiro",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/384811.jpg?s=2e383ccdbd236e099ae15337444b49fa",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Donny",
+      "seiyuu": "Sakai, Tsurumaru",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/385523.jpg?s=7a20c3eac2d438ee99215fee4ac575da",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Golass",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/384814.jpg?s=cc83f7cab690804caf2de2ab398c50e4",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Narrator",
+      "seiyuu": "Ohba, Mahito",
+      "imagen_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Woonan",
+      "seiyuu": "Kusao, Takeshi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/384813.jpg?s=a3fca86d75439b5abb5236145655db28",
+      "rol": "Supporting"
+    }
+  ],
+  "Black Clover": [
+    {
+      "nombre": "Asta",
+      "seiyuu": "Kajiwara, Gakuto",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/312836.jpg?s=f4ea6f575c53db8908baf0f874e33e70",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Silva, Noelle",
+      "seiyuu": "Yuuki, Kana",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/338844.jpg?s=37d6d1f99de07821983285b9a3ac2614",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Yuno",
+      "seiyuu": "Shimazaki, Nobunaga",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/318765.jpg?s=dbc2307d86d0e001e31b9aad6f12b21c",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Abari",
+      "seiyuu": "Hikari, Syu",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/587552.jpg?s=8e82ae485ebc6e9e557933b7ecc791b4",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Adlai, Marie",
+      "seiyuu": "Sasaki, Hitomi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/357534.jpg?s=fcd034ef07cfe26134076ff2cb1a7be1",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Adlai, Gauche",
+      "seiyuu": "Hino, Satoshi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/338848.jpg?s=28f45d16f4108fda7684f19cde29f607",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Agrippa, Roxanne",
+      "seiyuu": "Matsuda, Kenichirou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/434360.jpg?s=0f2a2c33f5c162e1a18e64dbc657bc95",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Agrippa, Nilenia",
+      "seiyuu": "Matsuda, Kenichirou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/434361.jpg?s=6d3664d4ee453096dd544bc31e8c1823",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Agrippa, Nathan",
+      "seiyuu": "Matsuda, Kenichirou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/434358.jpg?s=7c492075d600b6c73481626ecaab234c",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Agrippa, Jonna",
+      "seiyuu": "Matsuda, Kenichirou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/434359.jpg?s=85c591336d6f47702f1e1af161437e0c",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Agrippa, Gordon",
+      "seiyuu": "Matsuda, Kenichirou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/476331.jpg?s=3115618c6334573bde162e0a610e5c4f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Aguirre, Elvira",
+      "seiyuu": "Shouji, Umeka",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/564587.jpg?s=c2ffb4a5f19d9edf5ac21fa6d413ea46",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Angel, Paulie",
+      "seiyuu": "Kowaka, Wakana",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/385134.jpg?s=f0ab38b7c4dc10b785884294844fce76",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Aquaria, Lily",
+      "seiyuu": "Kubota, Miyu",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/338861.jpg?s=ef2c48727eeb1da3283934e24d94ac58",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Aruru",
+      "seiyuu": "Sasaki, Hitomi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/341888.jpg?s=8a7eabcf0db9d98dbac5224ba5f3c689",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Barbary, Helene",
+      "seiyuu": "Koga, Aoi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/374438.jpg?s=567a12a27d1b452475e2bea599a443b2",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Baro",
+      "seiyuu": "Muro, Genki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/357535.jpg?s=7391765c3aa345ca81d8079912e7fdf8",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Becquerel, Letoile",
+      "seiyuu": "Ayase, Yuu",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/399003.jpg?s=c74b71a7c8e21c2df503799ddb17f51e",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Benfunk, Ben",
+      "seiyuu": "Miyamoto, Jun",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/385135.jpg?s=84def9e9d846c38911d525950f59672a",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Boismortier, Rill",
+      "seiyuu": "Hanae, Natsuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/351522.jpg?s=558a521fe99c73d50a8e756d96a548f1",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Brint, Dmitri",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/440447.jpg?s=4a8397f1952217aca6e8dc4c00269f32",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Broccos",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/369107.jpg?s=f14b3aa1750d03133165d9d9268478eb",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Bronzazza, Sekke",
+      "seiyuu": "Oosaka, Ryouta",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/338854.jpg?s=53e2b92e156a9e8d2423c364c08a0ddd",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Calmreich, Finesse",
+      "seiyuu": "Akiyama, Eri",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/460185.jpg?s=42931db8b7ed9dc999927f3327e4e667",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Carillon, Kabwe",
+      "seiyuu": "Sahara, Makoto",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/434364.jpg?s=eef558b5b269bb0046adbaa3a809968e",
+      "rol": "Supporting"
+    }
+  ],
+  "Solo Leveling": [
+    {
+      "nombre": "Sung, Jin-Woo",
+      "seiyuu": "Ban, Taito",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/540692.jpg?s=84ef54c5990bd67985d24060a9ff3e84",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Ahn, Sang-Min",
+      "seiyuu": "Kondou, Hironori",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/403236.jpg?s=90cdf39e9c21d0f7a4cfd94839ab3c0f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ahn, Yu-Jeong",
+      "seiyuu": "Ogino, Hazuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/589879.jpg?s=6b5e776dfa9097f07d182a79a2ae6768",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Baek, Yoon-Ho",
+      "seiyuu": "Touchi, Hiroki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/531273.jpg?s=3ce567baf6938a539f6cf49c6a4a4c9b",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Beomgil, Yoon",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/543972.jpg?s=e67ede376a119d15504330f963b7051b",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Cha, Hae-In",
+      "seiyuu": "Ueda, Reina",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/536361.jpg?s=92ad759f97826f201fd29f3919263aa2",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Cho, Gyu-Hwan",
+      "seiyuu": "Hatano, Kakeru",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/589871.jpg?s=2e3c5f9909c9f8cf4cb9760b7f37610f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Cho, Myung",
+      "seiyuu": "Wakabayashi, Yuu",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/589873.jpg?s=1e4062d2ba38a51961095ca9930d7667",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Choi, Jong-In",
+      "seiyuu": "Hirakawa, Daisuke",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/531272.jpg?s=309b174b84779d1c3105c7777c1524b2",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Eun-Seok",
+      "seiyuu": "Terashima, Takuma",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/534865.jpg?s=15101654f2a6c79e1abbbe737c7f038a",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Gina",
+      "seiyuu": "Aihara, Kotomi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/574795.jpg?s=f184e9d6ddb1896fa3b1699626bbf6e6",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Go, Gun-Hee",
+      "seiyuu": "Ginga, Banjou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/531270.jpg?s=d6b4d3ca914d70105618a5127f0040c9",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Goo, Jun-Tae",
+      "seiyuu": "Kobatake, Masafumi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/589872.jpg?s=c0c335af896c93b66dec8ea62c503060",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Han, Song-Yi",
+      "seiyuu": "Tomita, Miyu",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/572692.jpg?s=3ca83728fe8e073237bd024cf704c44e",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Hwang, Dong-Suk",
+      "seiyuu": "Mamiya, Yasuhiro",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/540698.jpg?s=e69525044babb35d3a757d3bbca68609",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Hwang, Dong-Soo",
+      "seiyuu": "Suwabe, Junichi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/395408.jpg?s=642c9e32ef88487c28340a7ac2a08791",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Hyun, Ki-Chul",
+      "seiyuu": "Morinaga, Ayato",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/543621.jpg?s=4386543a98a3a36e36aa7e63597e2477",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Igris",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/583246.jpg?s=2626562802162439e966f00e4e8d8734",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Jeong, Dong-Hun",
+      "seiyuu": "Nakamura, Genta",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/589870.jpg?s=8ad2cbc98c5266363fc1919f9e1b049a",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Jin-Seok",
+      "seiyuu": "Hayama, Shouta",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/432865.jpg?s=5ada56a23cc5ec4b5e305fa5e2f301e3",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Joo, Jae-Hwan",
+      "seiyuu": "Kanemasa, Ikuto",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/589881.jpg?s=53f8585dea07fdd94b1d44badd275a62",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kang, Jeong-Ho",
+      "seiyuu": "Higa, Ryousuke",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/589877.jpg?s=f12f15f7cb85e9e772f2f2b03e9c9b71",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kang, Tae-Shik",
+      "seiyuu": "Uchiyama, Kouki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/540697.jpg?s=5862c0950455d42c43412636d12d7811",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kim, Sang-Shik",
+      "seiyuu": "Yamamoto, Manta",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/540696.jpg?s=a0ec57d8f97fad872259021edb39fe68",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kim, Chul",
+      "seiyuu": "Kobayashi, Chikahiro",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/576171.jpg?s=880a15335ab79a9aeec2844abd601ea4",
+      "rol": "Supporting"
+    }
+  ],
+  "SPY x FAMILY": [
+    {
+      "nombre": "Forger, Yor",
+      "seiyuu": "Hayami, Saori",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/457934.jpg?s=95b00e4e699e5120bad0e4d20a148aa8",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Forger, Loid",
+      "seiyuu": "Eguchi, Takuya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/457747.jpg?s=8642e49e62334cd93e38423bff6ee586",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Forger, Anya",
+      "seiyuu": "Tanezaki, Atsumi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/457933.jpg?s=ba4caa5a44905138cd83d5972982664c",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Aquarist",
+      "seiyuu": "Torashima, Takaaki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/482318.jpg?s=17c331820e69830fc4930a3fdd19604c",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Barnes",
+      "seiyuu": "Kobatake, Masafumi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/476983.jpg?s=f0b064d44cb1d80a480858ed27340648",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Black-Suited Man A",
+      "seiyuu": "Okai, Katsunori",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/494817.jpg?s=a74e52d6cec93d83ae0a718c11d1de6c",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Black-Suited Man B",
+      "seiyuu": "Zouza, Shoumaru",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/494818.jpg?s=b35d9d1f7198e702bade4cc524613dcd",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Blackbell, Becky",
+      "seiyuu": "Katou, Emiri",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/528426.jpg?s=67fd10f15e1160d355fc8d7d76fa15ae",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Bondman",
+      "seiyuu": "Nakano, Taisuke",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/495202.jpg?s=95fed1fdf6018fe05dfb416c0f795f60",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Bondman's Boss",
+      "seiyuu": "Sakuma, Motoki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/482790.jpg?s=b7331311a1cd7efa1ef22b2ae4d2ea41",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Brennan",
+      "seiyuu": "Gotou, Hiroki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/473275.jpg?s=83b5444fbdac5ddc643a078a425814d0",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Briar, Yuri",
+      "seiyuu": "Ono, Kensho",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/528425.jpg?s=f6acc0d039250e389237748fc305a88a",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Camilla",
+      "seiyuu": "Shouji, Umeka",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/495205.jpg?s=69f25bdbeb522d0d4d71d842b7a9bf8d",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Chief Aquarist",
+      "seiyuu": "Sakuma, Motoki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/482319.jpg?s=32f5933922c40fe9c288084e2db76282",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Chief Nurse",
+      "seiyuu": "Ibuki, Chihiro",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/482792.jpg?s=22e86603030dc205ccbd8d85fe767a47",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Desmond, Donovan",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/467200.jpg?s=0f6e232a7a503ba5335f84e13629c2f7",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Desmond, Damian",
+      "seiyuu": "Fujiwara, Natsumi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/528424.jpg?s=49ef7f87f79759f6f1ac3f74f12bf373",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Dominic",
+      "seiyuu": "Kajikawa, Shohei",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/476929.jpg?s=ef8bd7691e60b1a79f8b21b0a5bee6f7",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Driver",
+      "seiyuu": "Saji, Kazuya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/473223.jpg?s=f0a59e1f4c61f628cc57b0b3c61d0312",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Eden Academy Announcer",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Eden Academy Geometry Teacher",
+      "seiyuu": "Zouza, Shoumaru",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/475405.jpg?s=341ef021858573bd4031af5b1d4bfa61",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Eden Academy Gutter Student",
+      "seiyuu": "Satou, Hana",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/482798.jpg?s=efe3c87a2c08d7166dae7d9ca103f37f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Eden Academy Math Teacher",
+      "seiyuu": "Sakuma, Motoki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/482800.jpg?s=cccfc00a080bc6fb86214a042f20b411",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Eden Academy Science Teacher",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/482801.jpg?s=60ff35b67eb69e612bba18fe8a958604",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Eden Academy Teacher",
+      "seiyuu": "Kobatake, Masafumi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/475407.jpg?s=2e0dc0d406361594578df8ef17b9193d",
+      "rol": "Supporting"
+    }
+  ],
+  "Blue Exorcist": [
+    {
+      "nombre": "Okumura, Yukio",
+      "seiyuu": "Fukuyama, Jun",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/569689.jpg?s=f39043665799b8126d1d94520d705dae",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Okumura, Rin",
+      "seiyuu": "Okamoto, Nobuhiko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/114367.jpg?s=4a62e10a72b5fbca1ce5aec8c8231eb7",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Adachi, Terufusa",
+      "seiyuu": "Koyama, Takehiro",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/435815.jpg?s=4ef25aca7b41ab6228a369ea30266ce1",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Amaimon",
+      "seiyuu": "Kakihara, Tetsuya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/123849.jpg?s=afceb9a2195442711bdc5adac1a8954a",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Angel, Arthur Auguste",
+      "seiyuu": "Ono, Daisuke",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/135095.jpg?s=42120c61261a57bbc16f357f2bfc6cc7",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Astaroth",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/407495.jpg?s=0f9ed5baa67fdd122dadb8e178196d84",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Bourguignon",
+      "seiyuu": "Iijima, Hajime",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/589577.jpg?s=81f2128b4ff1225387df12c038c6b416",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Frederick Egin, Yuri",
+      "seiyuu": "Hayashibara, Megumi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/435849.jpg?s=9b2a5491e952b4d62c36e105b1458148",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Frederick Egin, Ernst",
+      "seiyuu": "Miki, Toshihiko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/135267.jpg?s=51d32a378e421905132d73bf470d44f0",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Fujimoto, Shirou",
+      "seiyuu": "Fujiwara, Keiji",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/114533.jpg?s=31ecb9c7eae12d31d16993bc6dc9ce07",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ghost",
+      "seiyuu": "Mizusawa, Fumie",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/435820.jpg?s=1a97afdbeb276a33e70d0591bfda9e93",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Izumi",
+      "seiyuu": "Miyasaka, Shunzou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/435821.jpg?s=b0b8fc63ff6670470a83945bda6e2675",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kamiki, Izumo",
+      "seiyuu": "Kitamura, Eri",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/563570.jpg?s=b48f95d07202a0118c4a5a10ec1f62b9",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kashino",
+      "seiyuu": "Uchiyama, Yumi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/548732.jpg?s=5666f2b9cafbafee64d92f67d2392c69",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kirigakure, Shura",
+      "seiyuu": "Satou, Rina",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/121489.jpg?s=d05874ec2e3152223b6ed3743cdc07fc",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kuro",
+      "seiyuu": "Takagaki, Ayahi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/135279.jpg?s=ce67f0aa5c631dd579645c59f4ffd0de",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kyodo, Naoya",
+      "seiyuu": "Takeuchi, Ryouta",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/584069.jpg?s=b5d22c5a3d66679bbabe46d288f2458d",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Maruta",
+      "seiyuu": "Tanaka, Akira",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/516796.jpg?s=de07e4acb4fee2f462b2c497938b6d98",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Melchior",
+      "seiyuu": "Maruyama, Eiji",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/516801.jpg?s=06c9495054d4ace7dc6e768ad3004bd8",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Miketsu",
+      "seiyuu": "Inoue, Gou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/435878.jpg?s=84a490d92a9f28a5817429ac0232c9f6",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Miwa, Konekomaru",
+      "seiyuu": "Kaji, Yuuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/118222.jpg?s=64032a0ff21168bbeb790ab78a0db2be",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Moriyama, Shiemi",
+      "seiyuu": "Hanazawa, Kana",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/133967.jpg?s=5bdf33e7f7cc1aa898bd4401082e3cbd",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Moriyama, Shiyumi",
+      "seiyuu": "Karasawa, Jun",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/435855.jpg?s=58ab83fc66d061c45154ce331d5fadbd",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Moriyama, Shie",
+      "seiyuu": "Matsuo, Yoshiko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/584541.jpg?s=b52fce718d8943cdebcadd241d2acd4a",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ms. Momoi",
+      "seiyuu": "Nakajima, Kayou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/589579.jpg?s=ccd601c3726d6413c7b55517f01ff255",
+      "rol": "Supporting"
+    }
+  ],
+  "Naruto": [
+    {
+      "nombre": "Haruno, Sakura",
+      "seiyuu": "Nakamura, Chie",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/69275.jpg?s=36c4ad9f4440d77918c34c49870e719c",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Hatake, Kakashi",
+      "seiyuu": "Inoue, Kazuhiko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/284129.jpg?s=b0a6b941fd427cbfd85657f316c0e309",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Uchiha, Sasuke",
+      "seiyuu": "Sugiyama, Noriaki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/131317.jpg?s=9705c17dba36c2edebded3a72dc1a46e",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Uzumaki, Naruto",
+      "seiyuu": "Takeuchi, Junko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/284121.jpg?s=3ebac88ad166bf105d8f04894f3fb469",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Abumi, Zaku",
+      "seiyuu": "Hoshi, Souichirou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/36355.jpg?s=326e8671faaacb5fe6ce13fb931915a3",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Aburame, Shibi",
+      "seiyuu": "Hamada, Kenji",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/103841.jpg?s=c555bc6a75c48a6ab191b9dc75b46805",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Aburame, Shino",
+      "seiyuu": "Kawada, Shinji",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/292449.jpg?s=f7b8f2084a65d22cd9381f25a55f8b2f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Akado, Yoroi",
+      "seiyuu": "Kirimoto, Takuya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/104668.jpg?s=13e483e534221000f378d246d704204e",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Akado, Manabu",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/86790.jpg?s=5a399336b508b53c53287ec017086beb",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Akahoshi",
+      "seiyuu": "Miyamoto, Mitsuru",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/57543.jpg?s=38e0bf9f45bf7e46bb18bb4b38cb6ae9",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Akamaru",
+      "seiyuu": "Takeuchi, Junko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/58197.jpg?s=72fb82b5f99c06ba07d67f7e0c845aec",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Akame, Iwana",
+      "seiyuu": "Tanaka, Kan",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/325684.jpg?s=abe1359d28e202f76eb782b24cabcb64",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Akane",
+      "seiyuu": "Satou, Yuuko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/66541.jpg?s=db17d05fabd4c56ab0954e201e2b7d40",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Akimichi, Chouza",
+      "seiyuu": "Fukuda, Nobuaki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/103839.jpg?s=9bbeca695c99940d76131a1f9c78611b",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Akimichi, Chouji",
+      "seiyuu": "Itou, Kentarou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/105421.jpg?s=bbb2f94a4f15470a215358085358bc37",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Akio",
+      "seiyuu": "Hino, Satoshi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/62769.jpg?s=486192f83af54566dc4ec46ba4e3d78f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Amachi",
+      "seiyuu": "Umezu, Hideyuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/556367.jpg?s=3b4ac67c34a8743ee6b324e7ab4271e0",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ami",
+      "seiyuu": "Kogure, Ema",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/66497.jpg?s=d8cae2c3208d7c910e02490fe6a31384",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ayame",
+      "seiyuu": "Hosono, Masayo",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/130515.jpg?s=e47667162694ef2dd32847cebb0b2a21",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Baiu",
+      "seiyuu": "Fujimoto, Takayuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/66499.jpg?s=0ef68a611ec7d242be32fd320ee807f1",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Baki",
+      "seiyuu": "Nakata, Jouji",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/103833.jpg?s=55731fecf3505c870eb10480c5a08587",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Bekkou",
+      "seiyuu": "Fukuda, Nobuaki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/325683.jpg?s=f1957fbfe6dd38a03c349ef640fa9243",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Bisuke",
+      "seiyuu": "Kawada, Shinji",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/92486.jpg?s=dcbad5dc292d32c538c7480252826248",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Chikara",
+      "seiyuu": "Yanada, Kiyoyuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/556385.jpg?s=1ff497e0f2192782ee1c17ce21ee0ccc",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Chishima",
+      "seiyuu": "Mito, Takashi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/63540.jpg?s=e4e114ada252289d19750b4a877f193a",
+      "rol": "Supporting"
+    }
+  ],
+  "Gachiakuta": [
+    {
+      "nombre": "Surebrec, Rudo",
+      "seiyuu": "Ichikawa, Aoi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/486858.jpg?s=31292367d29521e12625c07c4ca62c08",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Amo's Mother",
+      "seiyuu": "Imai, Asami",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/608090.jpg?s=c5e3acf71af61595d3c2483ccb3d40cb",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Andor, Cthoni",
+      "seiyuu": "Takagaki, Ayahi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/606705.jpg?s=4c3b903d7ec228bb2dc896dcc9ca32d6",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Begalkeit, Bundus",
+      "seiyuu": "Ootsuka, Akio",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/607530.jpg?s=4732c974a7f1b698cf82e0573d1c7ac6",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Caines, Tamsy",
+      "seiyuu": "Saiga, Mitsuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/604995.jpg?s=df88b3a01f03f7d450160291785ce38d",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Chiwa",
+      "seiyuu": "Itou, Miku",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/606707.jpg?s=9df3b79542c2c772ad065ad5a19644c3",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Chiwa's Mother",
+      "seiyuu": "Iguchi, Yuka",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/604981.jpg?s=dfd0579dc60f0927163eeba2b2f989db",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Corvus, Arkha",
+      "seiyuu": "Koyama, Rikiya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/604989.jpg?s=d5e5ccf5b14a5410d0414f6411907416",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Delmon's Wife",
+      "seiyuu": "Yukinari, Toa",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/608089.jpg?s=2eeebbb1fa6a5e5694676fce39e362fe",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Diner Patron",
+      "seiyuu": "Tadano, Youhei",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/609821.jpg?s=3db4cfca1d52bbb3739ec7a8519cc3f8",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Empool, Amo",
+      "seiyuu": "Hanazawa, Kana",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/604985.jpg?s=aa1a89d4e256b9886ad2e81086fbeb44",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Enjin",
+      "seiyuu": "Konishi, Katsuyuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/595637.jpg?s=6b489c97a55dc1f9f63466ef09536e3c",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Female Raider",
+      "seiyuu": "Shida, Arisa",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/601749.jpg?s=8666a918e6589e8e86b7bdfd25837ad8",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Gates, Delmon",
+      "seiyuu": "Iwasaki, Masami",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/604994.jpg?s=157642951c8e3864dc95c2e251caf1e0",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Gob",
+      "seiyuu": "Gotou, Hiroki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/604792.jpg?s=0ff32e771645370f70b7e4dd11dc21d3",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Grier, Semiu",
+      "seiyuu": "Sonozaki, Mie",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/604991.jpg?s=a9ea66f43ff3ff285bbaf0628f89e395",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Guita Hebby Fantasia",
+      "seiyuu": "Naganawa, Maria",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/607531.jpg?s=478c5314693772e3d0d6542027919420",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Hew Amozo, Noerde",
+      "seiyuu": "Tamura, Mutsumi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/607532.jpg?s=bd7fdffb8c140425e018d269d6de9ec5",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Hyo",
+      "seiyuu": "Nazuka, Kaori",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/610022.jpg?s=b20b64a9a6688e50f5a2a93e5d823e34",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Instructor",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/613568.jpg?s=c6cb8d87ce3124af9c2abd993ec79455",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Judge",
+      "seiyuu": "Iwasaki, Hiroshi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/608087.jpg?s=7b596e03152eb51cc901d1a5338d6270",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Konza",
+      "seiyuu": "Sasaki, Yoshihito",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/608842.jpg?s=63d687b80e9e6c0fb0b4705a8789efb0",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Man With Parted Hair",
+      "seiyuu": "Satou, Setsuji",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/609822.jpg?s=b9967fa89feed4223935b7d7dfdc6b3f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Mima, Tomme",
+      "seiyuu": "Toujou, Hisako",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/606703.jpg?s=81ed7788eb833b881daaa470bfe8525e",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Mymo",
+      "seiyuu": "Hiyama, Nobuyuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/610214.jpg?s=3d07f79edde03853e8ff54ceea311c18",
+      "rol": "Supporting"
+    }
+  ],
+  "Cyberpunk": [],
+  "Sakamoto Days": [
+    {
+      "nombre": "Asakura, Shin",
+      "seiyuu": "Shimazaki, Nobunaga",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/424805.jpg?s=751dcf481a562d977c6323fc90e238a5",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Lu, Shaotang",
+      "seiyuu": "Sakura, Ayane",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/503170.jpg?s=6ac5bfa71d6a647d7ce22aaccbaa34f8",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Sakamoto, Tarou",
+      "seiyuu": "Sugita, Tomokazu",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/508475.jpg?s=b0fe5bb5d114cb8c5e5dfdc04da07801",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Apart",
+      "seiyuu": "Kobayashi, Chiaki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/585423.jpg?s=da054d02c8a4977a0481417c25371c68",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Asakura",
+      "seiyuu": "Tsuchida, Hiroshi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/584534.jpg?s=5fe6cad7fad80a804c79e33e5cbe6451",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Bacho",
+      "seiyuu": "Sasaki, Yoshihito",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/538758.jpg?s=febaf03c2b6a00009f0e07ffea15682f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Boiled",
+      "seiyuu": "Mamiya, Yasuhiro",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/579066.jpg?s=e441d95570bd5c8eb69f01e3b5dcdc2f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Boss",
+      "seiyuu": "Nomura, Kenji",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/575917.jpg?s=13bbd79aaf6223d1b78dc9638ffe1385",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Boy",
+      "seiyuu": "Koichi, Makoto",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/575918.jpg?s=fffcdd576fd3fdc6b8c53efc195bfdb5",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Dodenkai Boss",
+      "seiyuu": "Ogata, Mitsuru",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/578002.jpg?s=d5b78238063c56cf6aa0365732337726",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Dump",
+      "seiyuu": "Kaida, Yuuko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/585421.jpg?s=2df125cb02d12dc1e7130f0589ea0c7a",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Hyou",
+      "seiyuu": "Yasumoto, Hiroki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/538483.jpg?s=9a69906a48c8b1f205d6cd8e159ec80f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Iriya",
+      "seiyuu": "Maeda, Hiroki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/580454.jpg?s=9dcab79ae936ce9019946d49ba9ec587",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ishikawa",
+      "seiyuu": "Yasumura, Makoto",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/585827.jpg?s=ab8e52a13f882ac0f1d3dc9b8f018b50",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kashima",
+      "seiyuu": "Okitsu, Kazuyuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/508119.jpg?s=fcf7870c41ca8dede29e7dae2224063b",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Lu, Wutang",
+      "seiyuu": "Mizunaka, Masaaki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/538485.jpg?s=4ead8409ce1ec5b57896e7e32d19c3ff",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Lu Xiaotang's Father",
+      "seiyuu": "Sahara, Makoto",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/585830.jpg?s=3a12c25ad98e370de61397f8bee9391d",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Mad Horiguchi",
+      "seiyuu": "Satou, Setsuji",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/539338.jpg?s=1dda53c7a28db661c52a4b4a433e0f3f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Mashimo, Heisuke",
+      "seiyuu": "Suzuki, Ryouta",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/557779.jpg?s=57494f189dcf5ea03937300e9f2ec744",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Minimalist",
+      "seiyuu": "Takeuchi, Ryouta",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/585424.jpg?s=5af2771d5c7bbfb575e5897e0bf88cd4",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Monchan",
+      "seiyuu": "Kobayashi, Chikahiro",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/585828.jpg?s=03e4d22e9f5dbffd2e6b85fa85f354d3",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Nagumo, Yoichi",
+      "seiyuu": "Hanae, Natsuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/548406.jpg?s=7feeb69cc690adb71559e2ea1357c83e",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Nakajima",
+      "seiyuu": "Yamamoto, Kanehira",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/538907.jpg?s=c897f8546cf00b60e3be09f12875d5c2",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Narrator",
+      "seiyuu": "Ootsuka, Houchuu",
+      "imagen_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ningu, Kurii",
+      "seiyuu": "Kiuchi, Tarou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/578003.jpg?s=6eee64ed7f705b29fdaefcbb4cc3b2e9",
+      "rol": "Supporting"
+    }
+  ],
+  "Haikyu!!": [
+    {
+      "nombre": "Hinata, Shouyou",
+      "seiyuu": "Murase, Ayumu",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/243919.jpg?s=09776694ad2bd2ab65f422b7b0139cb9",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Kageyama, Tobio",
+      "seiyuu": "Ishikawa, Kaito",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/417874.jpg?s=5bf547fd1fe8438f59ffd68166c7a432",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Aihara, Mao",
+      "seiyuu": "Suegara, Rie",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/405737.jpg?s=af8ce1d5994a322f737ca13468e6dccf",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Akane",
+      "seiyuu": "Tomioka, Misako",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/402011.jpg?s=c7e02be293dfd6783941073ecbdb04d3",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Aone, Takanobu",
+      "seiyuu": "Matsukawa, Hiroki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/417877.jpg?s=b4550434c03708de7e257e1d2c7960af",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Azumane, Asahi",
+      "seiyuu": "Hosoya, Yoshimasa",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/250885.jpg?s=f880c7d8edbe33d09ade34c34d09e72c",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Chaya, Kazuma",
+      "seiyuu": "Yoshikai, Kiyohito",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/260369.jpg?s=7225821003ba7c0429ab662443897de4",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Concierge",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/483560.jpg?s=853ec841767f2d3295ccfe02d8f70ed4",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ennoshita, Chikara",
+      "seiyuu": "Masuda, Toshiki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/417871.jpg?s=6064dc732cc1bf9e297173469ccfd5b3",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Fukunaga, Shouhei",
+      "seiyuu": "Chounan, Shouta",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/260005.jpg?s=6ac7a5a42b0382d976760b82820b857e",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Futakuchi, Kenji",
+      "seiyuu": "Nakazawa, Masatomo",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/417880.jpg?s=9fcbd0f67f703289e7fcc253e4cba3c0",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Haga, Yoshiharu",
+      "seiyuu": "Furushima, Kiyotaka",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/260371.jpg?s=09afa7fe36234d3a1bfd30b09058e96b",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Hanamaki, Takahiro",
+      "seiyuu": "Sakurai, Tooru",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/259943.jpg?s=a7efe7cd01b3e5bdf4ba48862147f165",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Hinata, Natsu",
+      "seiyuu": "Yamazaki, Haruka",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/249681.jpg?s=c8836a75cd7b5317312c1149487be978",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Hirama, Asuka",
+      "seiyuu": "Kakuma, Ai",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/402010.jpg?s=71875edefe51027239ba0171a0f5eda4",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ikejiri, Hayato",
+      "seiyuu": "Miyazaki, Hiromu",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/260025.jpg?s=c9c6f3a7b7670e65d52e9c009f122f04",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Inuoka, Sou",
+      "seiyuu": "Ikeda, Kyousuke",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/250899.jpg?s=a5c26630fa6c6b3bce774dfeccab47ef",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Irihata, Nobuteru",
+      "seiyuu": "Hoshino, Mitsuaki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/260233.jpg?s=486159d3aaa6e4d93b3d7cc9612a1661",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Iwaizumi, Hajime",
+      "seiyuu": "Yoshino, Hiroyuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/258959.jpg?s=446e30711f947f25a4100852bc180feb",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Izumi, Yukitaka",
+      "seiyuu": "Ikeda, Kyousuke",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/314027.jpg?s=274bdba169d2edcbbd850c44e48c3cde",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kai, Nobuyuki",
+      "seiyuu": "Hoshino, Takanori",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/260011.jpg?s=c36ed782cca41b77f6ccea2b7c75a403",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kamasaki, Yasushi",
+      "seiyuu": "Satou, Takuya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/260235.jpg?s=3e31cbf890cfe85cdcd69b7de0e02fbf",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kawashima, Yuuki",
+      "seiyuu": "Nishiyama, Koutarou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/260367.jpg?s=f3b515b30ba732916846f83547658765",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kindaichi, Yuutarou",
+      "seiyuu": "Furukawa, Makoto",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/417883.jpg?s=dfeda631283a9fbe0248053120162e24",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kinoshita, Hisashi",
+      "seiyuu": "Sagara, Nobuyori",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/417891.jpg?s=ead2bdfd2ed314855a5a4195ac874fe4",
+      "rol": "Supporting"
+    }
+  ],
+  "Hunter x Hunter": [
+    {
+      "nombre": "Freecss, Gon",
+      "seiyuu": "Takeuchi, Junko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/174517.jpg?s=c8133cf450dc6bf13ba52d6781759101",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Kurapika",
+      "seiyuu": "Kaida, Yuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/549312.jpg?s=fc4bb9699591fdf742c7fee5593c961e",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Paladiknight, Leorio",
+      "seiyuu": "Gouda, Hozumi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/549311.jpg?s=ba86161de766b11580c7fbdf23849cbc",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Zoldyck, Killua",
+      "seiyuu": "Mitsuhashi, Kanako",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/327920.jpg?s=afd533ace6e7ce81ccf877d3d97880bb",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Abe",
+      "seiyuu": "Mizutani, Keiko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/136563.jpg?s=0d82eb2456938184b0777fd0a292a727",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Agon",
+      "seiyuu": "Tanabe, Shingo",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/315380.jpg?s=20b142a3671634b9c19eb9ce6f4f5bd2",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Amori",
+      "seiyuu": "Mori, Norihisa",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/168123.jpg?s=6821afc47f00d44dd360fba59d4ea66a",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Anita",
+      "seiyuu": "Tenjin, Umi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/105945.jpg?s=9304e522d5c8465fb0be01465fc9de68",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Baise",
+      "seiyuu": "Ohta, Shiori",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/174229.jpg?s=547169ce694c27308650f137700687e4",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Banner",
+      "seiyuu": "Mizutani, Keiko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/426535.jpg?s=5f0a18729c3dcd4e55d3f3908ae9e3d0",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Basho",
+      "seiyuu": "Kiuchi, Hidenobu",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/173371.jpg?s=e95b2fb2eb7815f6800171110f900d52",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Beans",
+      "seiyuu": "Mori, Norihisa",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/146367.jpg?s=550803e11e847cacf4ec33c2fb2b018f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Bendot",
+      "seiyuu": "Sugino, Tanuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/146371.jpg?s=513ffa1f9d7d859405fa5fb40d0399b7",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Bodoro",
+      "seiyuu": "Takemoto, Eiji",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/156815.jpg?s=9443c4b0364456b6c2cfd8b36442bc5d",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Bordeaux, Franklin",
+      "seiyuu": "Kaneko, Yoshinobu",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/183365.jpg?s=9eb11f81cd41ff3bfa349a765b978372",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Bourbon",
+      "seiyuu": "Takemoto, Eiji",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/156819.jpg?s=21a478bb11ac11da23050e0f0d32b2be",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Buhara",
+      "seiyuu": "Takahashi, Keiji",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/139917.jpg?s=a3e79951ccc9bf640fdd80463c4dda8e",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Canary",
+      "seiyuu": "Kiuchi, Reiko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/183995.jpg?s=f3daa267fcb40cde6f81813641aeb6ee",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Captain",
+      "seiyuu": "Nishimatsu, Kazuhiko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/136561.jpg?s=ac375b36a2a767b81af6308e323cfbeb",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Cherry",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/140063.jpg?s=b5e000ccab5bbf29c118d56cdd1ac9c7",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Cocco",
+      "seiyuu": "Kikuchi, Akiko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/172549.jpg?s=b1f6c22327efb68b9747020d438f6209",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Dalzollene",
+      "seiyuu": "Sugino, Tanuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/180001.jpg?s=8025b081c2afd0197d2172f13f5e835c",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Eliza",
+      "seiyuu": "Shimizu, Mina",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/175043.jpg?s=2bb11947f7e65530aa5fe83e0bf3763a",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Freecss, Ging",
+      "seiyuu": "Touchi, Hiroki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/231795.jpg?s=a02e50645c7dc0816f3e7108cbef2c42",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Freecss, Mito",
+      "seiyuu": "Kimura, Akiko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/47876.jpg?s=b2a958f4b498a98255dd111c594a46af",
+      "rol": "Supporting"
+    }
+  ],
+  "Dan Da Dan": [
+    {
+      "nombre": "Ayase, Momo",
+      "seiyuu": "Wakayama, Shion",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/562295.jpg?s=e26e4c224f04d85730ee1d9ea6fc9413",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Takakura, Ken",
+      "seiyuu": "Hanae, Natsuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/531081.jpg?s=406bf99bcaa9f60d890e3bd6786a35e5",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Acro-Silky's Daughter",
+      "seiyuu": "Kino, Hina",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/568499.jpg?s=2755fa38e2b7f0b59af0fe34bdd2b9e5",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Acrobatic Silky",
+      "seiyuu": "Inoue, Kikuko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/562296.jpg?s=4c9418882157b6772df31d521763d7e6",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Aira's Father",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/568541.jpg?s=2142c64bd5055f3ce914f84dafb35354",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Anzu",
+      "seiyuu": "Yorita, Natsu",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/567583.jpg?s=d6cc74964f1035f70d1fe9148c4948d1",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ayase, Seiko",
+      "seiyuu": "Mizuki, Nana",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/525875.jpg?s=9ce671981b64648a5c4287bbff6af32f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Chiquitita",
+      "seiyuu": "Oozora, Naomi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/598226.jpg?s=c06c1eed8598fe1d2f2f7e254e890e10",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Earthbound Spirit Crab",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/568565.jpg?s=568514c85316720434632f63e38c7fdd",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "English Teacher",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/571939.jpg?s=66b36fff901ed99b82b0be2b052d7cc3",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Enjouji, Jin",
+      "seiyuu": "Ishikawa, Kaito",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/471823.jpg?s=871ce43d582bbc78e4df2c7908de3eaf",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Flatwoods Monster",
+      "seiyuu": "Ootomo, Ryuuzaburou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/562299.jpg?s=8c46469ceb5b75793cdff687d02390e8",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Hana",
+      "seiyuu": "Hirano, Fumi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/562300.jpg?s=33ee48ac00e664338f3c60d335014692",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Homeroom Teacher",
+      "seiyuu": "Seki, Kouji",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/571938.jpg?s=ba74492860859d72b7190e8d947db6e9",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Joou",
+      "seiyuu": "Takahashi, Chiaki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/571251.jpg?s=7fd14bc1cd982a2dfe8cbb15a219ea41",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kitou, Juhiko",
+      "seiyuu": "Kikuchi, Michitake",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/573408.jpg?s=7d6d680bf57cd7edea983c1837729e24",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kitou, Jugenna",
+      "seiyuu": "Tamai, Yuuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/573409.jpg?s=4bd38ecf7006339c457d0d2f5d451bcd",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kitou, Juuichi",
+      "seiyuu": "Saitou, Shirou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/573406.jpg?s=92282b752b3f1cd661deea8616ccc688",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kitou, Julian",
+      "seiyuu": "Sasaki, Yuusuke",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/573411.jpg?s=8e8a70bd9f7796560b9721400f7d1a9b",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kitou, Naki",
+      "seiyuu": "Isobe, Masako",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/572424.jpg?s=aebc44de4b0902f4498d1d1dfc733b4c",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kitou, Jumanuel",
+      "seiyuu": "Maki, Shunichi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/573407.jpg?s=1cd1ec25afbf8f3eb054c0f9eaf286c1",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Male Teacher",
+      "seiyuu": "Echigoya, Kousuke",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/571250.jpg?s=881c343f815d738413ed85e71c02d326",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Miko",
+      "seiyuu": "Maeda, Kaori",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/566644.jpg?s=95a99a94bcd5cbf07b2c63f0daa03a68",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Momo's Ex-Boyfriend",
+      "seiyuu": "Watanuki, Ryuunosuke",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/563963.jpg?s=1ce8a412c7cecb26f25f3442f18fc3fb",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Mr. Mantis Shrimp",
+      "seiyuu": "Seki, Tomokazu",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/562298.jpg?s=43927037eed4cebcc610c326e90d2957",
+      "rol": "Supporting"
+    }
+  ],
+  "Carlitos": [
+    {
+      "nombre": "Daniel, Dear",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/130369.jpg?s=75a5810161c3ff74226f1f6c94bd2527",
+      "rol": "Main"
+    },
+    {
+      "nombre": "White, Mimmy",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/130365.jpg?s=5131953d908c9a9e36f33ec652c44d75",
+      "rol": "Main"
+    },
+    {
+      "nombre": "White, Kitty",
+      "seiyuu": "Hayashibara, Megumi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/130129.jpg?s=7615070a43af94cbb028f563da0a7fc4",
+      "rol": "Main"
+    }
+  ],
+  "Frieren": [
+    {
+      "nombre": "Fern",
+      "seiyuu": "Ichinose, Kana",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/519083.jpg?s=b280b410b588ebcd3fd30ac6fad02978",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Frieren",
+      "seiyuu": "Tanezaki, Atsumi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/525105.jpg?s=1706604ec2ca141a172526b8dedf3177",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Stark",
+      "seiyuu": "Kobayashi, Chiaki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/523292.jpg?s=ea781ce6864ae29a56f5ce3d223d9496",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Aura",
+      "seiyuu": "Taketatsu, Ayana",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/524719.jpg?s=4048eff20f4b708dcb207e42dcf350a2",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Bartender",
+      "seiyuu": "Okai, Katsunori",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/592621.jpg?s=48007cef02263c989a6d3b480198b0f6",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Blei",
+      "seiyuu": "Takahashi, Shinya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/538684.jpg?s=b83dd6639d65b46ab3256b061d87e7de",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Burg",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/541583.jpg?s=c6660924d50b96b013b2f3bb9a94f8f1",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Captain of the Guard",
+      "seiyuu": "Nakashima, Takuya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/592620.jpg?s=3520a53a4ed07bdc9d812a227c698d43",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Castellan",
+      "seiyuu": "Yamaguchi, Satoshi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/592619.jpg?s=ae7a5307905907f983ea0e8341477c1a",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Chief of the Village of the Sword",
+      "seiyuu": "Kohara, Konomi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/529122.jpg?s=98882954f80644deaac5e2cc026b79be",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Church Father",
+      "seiyuu": "Shiraishi, Kento",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/592625.jpg?s=5faf9bd6c873ec19341d6787bc822dbe",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Demon Child",
+      "seiyuu": "Naitou, Ami",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/566312.jpg?s=a3827334dc81b38e2079ccd7c97880eb",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Denken",
+      "seiyuu": "Saitou, Jirou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/538686.jpg?s=2595c67e00559959d93b18367f1c278e",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Draht",
+      "seiyuu": "Oosuzu, Kouki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/524720.jpg?s=59c45b3a7141d2c9d6aadd10bf4fc6e4",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Dünste",
+      "seiyuu": "Kobatake, Masafumi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/538691.jpg?s=3df85500b7a4b245497ceb044d935b90",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Edel",
+      "seiyuu": "Kurosawa, Tomoyo",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/538690.jpg?s=03d416c7ce340935d05159d14f3de3ad",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ehre",
+      "seiyuu": "Itou, Kanae",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/531661.jpg?s=0828bb0cd56cf54305a4ba8d01b84e49",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Eisen",
+      "seiyuu": "Ueda, Youji",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/523293.jpg?s=10921d054b41f3e5dd2ab5d6b46e2a2c",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Elder",
+      "seiyuu": "Sonobe, Keiichi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/555061.jpg?s=de63bef39f7758c1c6b388adb38e64b9",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Exam Staff",
+      "seiyuu": "Tanaka, Takako",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/552133.jpg?s=d5e4f56aa3d36ed99d71f659a19528f3",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Falsch",
+      "seiyuu": "Shiraishi, Kento",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/535534.jpg?s=288c2d33b08269c142f2bde4d53a9be7",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Flamme",
+      "seiyuu": "Tanaka, Atsuko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/528177.jpg?s=8b3a2d8085f11194c19344fe11e9605c",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Gabel",
+      "seiyuu": "Nakatsukasa, Takayuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/531109.jpg?s=cc6bc49c9009ebd1f58076f330a8881a",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Genau",
+      "seiyuu": "Shingaki, Tarusuke",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/537235.jpg?s=bc4d06ed3e396ab82897a5e911fc99f4",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Granat",
+      "seiyuu": "Sakuya, Shunsuke",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/525426.jpg?s=4c85add66dff2e7234bf425b86cc7791",
+      "rol": "Supporting"
+    }
+  ],
+  "death note": [
+    {
+      "nombre": "Lawliet, L",
+      "seiyuu": "Yamaguchi, Kappei",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/249647.jpg?s=95cecc21f3db10318c68a0863f0132c8",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Ryuk",
+      "seiyuu": "Nakamura, Shidou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/59125.jpg?s=e258ccc6e6f6ed00c837b5ae8bced941",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Yagami, Light",
+      "seiyuu": "Miyano, Mamoru",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/63870.jpg?s=3adaed92c13123a9649ccc0cc6551f7d",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Aizawa, Yumi",
+      "seiyuu": "Arishima, Moyu",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/206675.jpg?s=4c7b666683ee1f79ce6a727b3aa92f85",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Aizawa, Shuuichi",
+      "seiyuu": "Fujiwara, Keiji",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/55515.jpg?s=a9df293e54c36408a5c17b5200e77404",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Aizawa, Eriko",
+      "seiyuu": "Kawaragi, Shiho",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/206679.jpg?s=e6580fe00d043400733fd69018f96063",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Amane, Misa",
+      "seiyuu": "Hirano, Aya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/30971.jpg?s=0af596d087b34f6e05942dcae60aebae",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Armonia Justin Beyondormason",
+      "seiyuu": "Umezu, Hideyuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/467933.jpg?s=97e83aa9a2b8c6cbc2945ed6fe6a81e8",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Block, Kyle",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/548839.jpg?s=8d99f9a792846341248a97789226578e",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Bullook, Halle",
+      "seiyuu": "Watanabe, Akeno",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/58404.jpg?s=02eca6f21dc5e221891b87a7474cb2bb",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Carter, Anthony",
+      "seiyuu": "Aizawa, Masaki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/68292.jpg?s=81a902a09ea05c4a0937ac3647d18672",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Conners, Larry",
+      "seiyuu": "Koyanagi, Motoi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/206665.jpg?s=4ce71bbdcf755066a773292e61f467d8",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Darlingbin, Carl",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/206663.jpg?s=d6d92c8f7f7d8874a51fc160dc1275e7",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Demegawa, Hitoshi",
+      "seiyuu": "Chafurin",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/102805.jpg?s=f074c68da2b9a75bb0e80bb1362babfc",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Gardner, Ellickson",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/548840.jpg?s=15ddf6eb71fb65f72378ebc5cb11facf",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ghiroza, Daril",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/548841.jpg?s=f5f14b327d8e78d0c374a10088d37eb9",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Gook",
+      "seiyuu": "Onishi, Takeharu",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/462574.jpg?s=e8e8fcbf8493c37eded76c8964ffb8af",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Gordon, Dwhite",
+      "seiyuu": "Aizawa, Masaki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/177547.jpg?s=991b922a648f534eb75582fcbc8fa5c4",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Hatori, Arayoshi",
+      "seiyuu": "Tokumoto, Yukitoshi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/68293.jpg?s=db13f45a599488c3daad5f85d2c9f0f2",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Higuchi, Kyousuke",
+      "seiyuu": "Futamata, Issei",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/141669.jpg?s=e8e3f0bca8a146820530456f136655d0",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ide, Hideki",
+      "seiyuu": "Ishikawa, Hideo",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/68300.jpg?s=bbd5a91c9181fdb00254b58e3c18a849",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Irius, Zakk",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/548843.jpg?s=b46c7000ffdb51d093a6b6813bbd31a2",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Jealous",
+      "seiyuu": "Matsuyama, Kenichi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/68291.jpg?s=ddd91630fb124bd45b9d691e5ced9fe8",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Jeevas, Mail",
+      "seiyuu": "Nishimura, Tomohiro",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/42363.jpg?s=2922e85e60bacaf94c6419bc9c9a792a",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Jose",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/483477.jpg?s=6062101a73c7daddb66f445bec8f9554",
+      "rol": "Supporting"
+    }
+  ],
+  "overtake": [
+    {
+      "nombre": "Asahina, Haruka",
+      "seiyuu": "Furuya, Anan",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/500865.jpg?s=a5b1c038709bc81c6c5a59a23021780b",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Madoka, Kouya",
+      "seiyuu": "Konishi, Katsuyuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/500866.jpg?s=09c2e2ccf736013af07e7e89483c9005",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Baker",
+      "seiyuu": "Hori, Soushirou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/577251.jpg?s=e8fd6bbf53cc5ee01517a66cf8af67f4",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ena, Noritsune",
+      "seiyuu": "Katou, Masayuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/523652.jpg?s=2292fbefbf6342e86fcdc3c684dbbaf4",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Harunaga, Satsuki",
+      "seiyuu": "Kawanishi, Kengo",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/518872.jpg?s=875ed23016b26c6156cc0a67a42b040b",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kagayama, Ryou",
+      "seiyuu": "Kobayashi, Chiaki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/577265.jpg?s=4fa3c476700d7b0c3dae8f2b60fc10dc",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kikuchi",
+      "seiyuu": "Okitsu, Kazuyuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/577256.jpg?s=06db7cdaace77455d4f6e1f0db2c744a",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Komaki, Koutarou",
+      "seiyuu": "Hatanaka, Tasuku",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/518873.jpg?s=47892a133bcf90cda55b895ad4c072d4",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Komaki, Futoshi",
+      "seiyuu": "Sasa, Kenta",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/523651.jpg?s=3725793beb27abd24386c74cea2b079c",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Mitsuzawa, Arisu",
+      "seiyuu": "Ueda, Reina",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/518870.jpg?s=0c70a8f8a534713de4a3900a5e5d3ed5",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Momo",
+      "seiyuu": "Inagaki, Konomi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/577257.jpg?s=39476642a0a9b36f5c71897e72020e66",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Race Commentator",
+      "seiyuu": "Kanemaru, Junichi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/577260.jpg?s=dbc2292d584421d985eabd940f6cb36e",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Satou",
+      "seiyuu": "Hasegawa, Ikumi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/524939.jpg?s=8d3d1bda909620eb0837fe300d54449b",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Satou's Boss",
+      "seiyuu": "Maeda, Hiroki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/577261.jpg?s=ba0dbf051520ae12a3c01b7b6f16d069",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Shop Owner",
+      "seiyuu": "Yamamoto, Shouta",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/577262.jpg?s=d72732c10528c40ef9c202299f852b0c",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Shouzou",
+      "seiyuu": "Tsuji, Shinpachi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/577263.jpg?s=554333ecfaeb78b2eb7c414f0476afa8",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Tokumaru, Toshiki",
+      "seiyuu": "Yashiro, Taku",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/518871.jpg?s=21cccc0a79ff6f23145353b4fc22a893",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Yuitani, Jin",
+      "seiyuu": "Yamashita, Seiichirou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/577266.jpg?s=0d893848a24d0a9e4d27d2e83c564497",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Yukihira, Saeko",
+      "seiyuu": "Tsunematsu, Ayumi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/523653.jpg?s=06057ff22a8430ebb5f8afc900b58565",
+      "rol": "Supporting"
+    }
+  ],
+  "ace to diamong": [
+    {
+      "nombre": "Boa, Hancock",
+      "seiyuu": "Mitsuishi, Kotono",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/146013.jpg?s=cb2628e503ecea60dc2619b4aedf3247",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Monkey D., Luffy",
+      "seiyuu": "Tanaka, Mayumi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/310307.jpg?s=3a27ab33bee665febfba970f24f203ba",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Acrobatic Fuwas #1",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/583405.jpg?s=0bec8d659fad5db17ce110ea0f94ab50",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Acrobatic Fuwas #2",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/583407.jpg?s=e0486972bf56f33eca2082c3f4d2fb48",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Acrobatic Fuwas #3",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/583409.jpg?s=bf264d7d27e723d71798b57d3290ba30",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Acrobatic Fuwas #4",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/583411.jpg?s=048e6e7e9d1853fcf3c5a651344bc4c7",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Aphelandra",
+      "seiyuu": "Okamura, Akemi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/56229.jpg?s=26182423c9bae7cbd2159ca94ed89b9c",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Boa, Marigold",
+      "seiyuu": "Saitou, Kimiko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/54744.jpg?s=5d89be022fd4ee3f3d31c22b26497232",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Boa, Sandersonia",
+      "seiyuu": "Saitou, Chiwa",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/54743.jpg?s=2a976d887e53c4e9477df5efcc5c403a",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Borsalino",
+      "seiyuu": "Ishizuka, Unshou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/96168.jpg?s=7c613bd175781463b30215b36fdee4be",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Brannew",
+      "seiyuu": "Yamada, Shinichi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/235805.jpg?s=a91d742b1bd78db3bf59e74e7822080b",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Brook",
+      "seiyuu": "Cho",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/161005.jpg?s=8e3191d4d9691fffe3dafaefaf086014",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Buggy",
+      "seiyuu": "Chiba, Shigeru",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/69112.jpg?s=2bb908ba252c0eaafa779c6d868f379a",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Buggy Ball Attendant",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/583333.jpg?s=1e86125596b015ce227472f19ece7305",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Buggy Pirate (Victim)",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/583332.jpg?s=e4746ff32632e8c0ef30e119ec277922",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Byojack",
+      "seiyuu": "Shimada, Bin",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/369152.jpg?s=34c26bb48bcdd149e170e34763f91a91",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Byrnndi, World",
+      "seiyuu": "Furuta, Arata",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/369389.jpg?s=e297b08d930922054b3e7aa0f8e4245b",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Cabaji",
+      "seiyuu": "Endo, Moriya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/592956.jpg?s=e15d0ebf7c3e7b4e1ae08117c42ffe4e",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Dracule, Mihawk",
+      "seiyuu": "Kakegawa, Hirohiko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/69747.jpg?s=b65e6e98b004f965b7c3783b34cdccb6",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Edward, Newgate",
+      "seiyuu": "Arimoto, Kinryuu",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/100236.jpg?s=7d8b2cff3cdb3b4cae84ff79ddf906cf",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Emporio, Ivankov",
+      "seiyuu": "Iwata, Mitsuo",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/81182.jpg?s=472544a0b803dbcc90102cb4dd6a55dd",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Enishida",
+      "seiyuu": "Ootani, Ikue",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/62704.jpg?s=7eebcc30f2e5adad8da8950b18533891",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Franky",
+      "seiyuu": "Yao, Kazuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/210053.jpg?s=58f71be3af78384ac43869b8c681efaf",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Gairam",
+      "seiyuu": "Iwata, Mitsuo",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/369147.jpg?s=636298620858f7b9aa29781e899731cc",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Galdino",
+      "seiyuu": "Hiyama, Nobuyuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/56861.jpg?s=403e2a098a1fd86cd77417bd64b54af0",
+      "rol": "Supporting"
+    }
+  ],
+  "Boruto:Naruto Next Generations": [
+    {
+      "nombre": "Kawaki",
+      "seiyuu": "Uchida, Yuuma",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/368951.jpg?s=6b573a422f08e780a673f476e0b71168",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Mitsuki",
+      "seiyuu": "Kijima, Ryuuichi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/435397.jpg?s=5cf8eabc3afce93f474d636c44f18a8b",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Uchiha, Sarada",
+      "seiyuu": "Kikuchi, Kokoro",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/292448.jpg?s=2325bf125a1bec74b888defa4c5bb02a",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Uzumaki, Boruto",
+      "seiyuu": "Sanpei, Yuuko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/292447.jpg?s=2268c929ed1ef587e1bf253043b7c542",
+      "rol": "Main"
+    },
+    {
+      "nombre": "A",
+      "seiyuu": "Tezuka, Hideaki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/112222.jpg?s=f80f0afc66a8f019bede3e5cdf1e53c1",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Aburame, Shino",
+      "seiyuu": "Kawada, Shinji",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/292449.jpg?s=f7b8f2084a65d22cd9381f25a55f8b2f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Aburame, Harika",
+      "seiyuu": "Muranaka, Tomo",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/509730.jpg?s=1d86646c033aac2622f04a3e5bf11b0a",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Akatsuchi",
+      "seiyuu": "Miyake, Kenta",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/87030.jpg?s=53fdba7223d0299e9af6202242c4acae",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Akimichi, Chouchou",
+      "seiyuu": "Shiraishi, Ryouko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/297478.jpg?s=dde8553e8974bc9ce69ac5a82fd33447",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Akimichi, Chouji",
+      "seiyuu": "Itou, Kentarou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/105421.jpg?s=bbb2f94a4f15470a215358085358bc37",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Akitsuki, Kankitsu",
+      "seiyuu": "Majima, Junji",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/399640.jpg?s=acf37926a259edebd602b28780263c2f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Akkun",
+      "seiyuu": "Ono, Kensho",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/386110.jpg?s=fce92588508e35a775931ac7fa5ab12f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Amaashi, Samidare",
+      "seiyuu": "Nakamura, Kazumasa",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/425212.jpg?s=330e226ca2b979b91a3bd1f80572a46b",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Amino, Sousha",
+      "seiyuu": "Saitou, Yuka",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/509731.jpg?s=2cfefcd8fa9952d083d4102ef8ceb2e5",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Anaguma",
+      "seiyuu": "Kijima, Ryuuichi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/510126.jpg?s=3589321e2b1eed30bb26cbcd4db8cbe2",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Aniki",
+      "seiyuu": "Kijima, Ryuuichi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/509775.jpg?s=befdea9652dd0cc1ab95f41d24e73cf0",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ao",
+      "seiyuu": "Saizen, Tadahisa",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/292897.jpg?s=a2ea7c3edff333068fbb6665ffff7aba",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Aoda",
+      "seiyuu": "Gotou, Kousuke",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/296114.jpg?s=1108c2c2fd633e5d1cd1dbf43421f0e5",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Aosa",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/588063.jpg?s=81d938b5c3ffef178049c52e930c599e",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Arai",
+      "seiyuu": "Suzuki, Ryouta",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/425201.jpg?s=48a660fdb2b72a888970ad567dbff660",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Araya",
+      "seiyuu": "Iki, Junji",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/357778.jpg?s=218be1a8eacb282ba6e2947c53e7cee2",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Asaka",
+      "seiyuu": "Hoshino, Yuusuke",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/591102.jpg?s=030e0ba2f56c8b86917f5e3147cf11a3",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Asakusa, Neon",
+      "seiyuu": "Iwami, Manaka",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/509732.jpg?s=3800c598d14d9826709b18e059a001b6",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ashimaru",
+      "seiyuu": "Watanuki, Ryuunosuke",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/14/350502.jpg?s=35b07232299ff0a963e4ffd076dea49d",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ashina",
+      "seiyuu": "Anzai, Chika",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/388437.jpg?s=7eff74c06f3160ff2d74ea3fc1c80cae",
+      "rol": "Supporting"
+    }
+  ],
+  "Tokyo Ghoul": [
+    {
+      "nombre": "Kaneki, Ken",
+      "seiyuu": "Hanae, Natsuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/307255.jpg?s=a3b352a4950d3231677668626b1a95f4",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Kirishima, Touka",
+      "seiyuu": "Amamiya, Sora",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/234699.jpg?s=10ef474344779135236911013b0925fc",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Abe, Maiko",
+      "seiyuu": "Asano, Mayumi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/259779.jpg?s=67ed4d2dfb07359d050eb3a0ec91ca8d",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Amon, Koutarou",
+      "seiyuu": "Konishi, Katsuyuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/251453.jpg?s=cf7bdc7cb409357d69720b0aee488ff6",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Arima, Kishou",
+      "seiyuu": "Namikawa, Daisuke",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/257935.jpg?s=774409608456392dcaca31f53234bb53",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Banjou, Kazuichi",
+      "seiyuu": "Itou, Kentarou",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/258499.jpg?s=f4c8bd78f37677f38a47a8e28b8e7056",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Enji, Koma",
+      "seiyuu": "Katsu, Anri",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/257941.jpg?s=f6702db6de1a2f2829577a566d3e43ce",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Eto",
+      "seiyuu": "Sakamoto, Maaya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/276501.jpg?s=6bd3d1eda8082217b36d0e2ff2d8775f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Fueguchi, Asaki",
+      "seiyuu": "Toriumi, Kousuke",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/2/256013.jpg?s=b0bc1ac1d05a2c8951a95cc1229cb4a3",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Fueguchi, Hinami",
+      "seiyuu": "Morohoshi, Sumire",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/263269.jpg?s=847a2a380804cf8e0c70b2dc2d5e2f17",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Fueguchi, Ryouko",
+      "seiyuu": "Orikasa, Fumiko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/255607.jpg?s=4ddbbd5e2fcfb555e9960643c9bde81e",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Gori, Misato",
+      "seiyuu": "Ueda, Reina",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/259931.jpg?s=f7e4ce85c9ded2e1edef8cc8b663d646",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Haru",
+      "seiyuu": "Kobori, Yurie",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/259935.jpg?s=409302e84b9e5cb52c8746c0283ab12d",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Hirako, Take",
+      "seiyuu": "Kondou, Takayuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/10/356024.jpg?s=ad15601aa4f81a12c46a380b0650a533",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Houji, Kousuke",
+      "seiyuu": "Hayami, Show",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/276349.jpg?s=2a5681ed8c678474ecb20cc2861f7ace",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Ichimi",
+      "seiyuu": "Miyazaki, Shuuto",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/260097.jpg?s=3deafaabb4deb26a158208439dc348a8",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Irimi, Kaya",
+      "seiyuu": "Ono, Fuyuka",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/274837.jpg?s=9ff4e20b10596ddcc082bb7ea3626818",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Itori",
+      "seiyuu": "Takagaki, Ayahi",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/254475.jpg?s=2254f6b076a1b434cd0d658722c2df0c",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Jiro",
+      "seiyuu": "Ueda, Reina",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/260099.jpg?s=78400039402ae0e23c86e1d8154dd0e6",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kamishiro, Rize",
+      "seiyuu": "Hanazawa, Kana",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/251965.jpg?s=57d66947438e9fc0d9935c61be760a70",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kaneki, Mother",
+      "seiyuu": "Takahashi, Rieko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/259937.jpg?s=6388d86412fd4eb82d7c912bccad0083",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kanou, Akihiro",
+      "seiyuu": "Nomura, Kenji",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/339852.jpg?s=bedd8a6492bed4f6cbfe97d57118015d",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kirishima, Arata",
+      "seiyuu": "Uchida, Yuuya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/257939.jpg?s=981db328545db4da789e8ff5f4830535",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kirishima, Ayato",
+      "seiyuu": "Kaji, Yuuki",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/258501.jpg?s=c45a7939e0741dcc583be3cf50b1adca",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Kosaka, Yoriko",
+      "seiyuu": "Akasaki, Chinatsu",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/276507.jpg?s=71015b87471a1864b314696690b9394b",
+      "rol": "Supporting"
+    }
+  ],
+  "Doraimon": [
+    {
+      "nombre": "Doraemon",
+      "seiyuu": "Ooyama, Nobuyo",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/4/279905.jpg?s=41ad5388ff6ffcb811bd83d3701ecaad",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Gouda, Takeshi",
+      "seiyuu": "Tatekabe, Kazuya",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/13/93606.jpg?s=05b0a65b5930e42a9229006e5805ddcf",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Honekawa, Suneo",
+      "seiyuu": "Kimotsuki, Kaneta",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/95993.jpg?s=2b68358e0fdcc5f11144010a1d562eee",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Minamoto, Shizuka",
+      "seiyuu": "Nomura, Michiko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/570490.jpg?s=0530e3da5ba6ef53b68d46030b3316f7",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Nobi, Nobita",
+      "seiyuu": "Ohara, Noriko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/5/609782.jpg?s=754df2754f25e91760992db66a0bfa5f",
+      "rol": "Main"
+    },
+    {
+      "nombre": "Abaraya, Ichirou",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/7/497154.jpg?s=8bdc91dda6dae8ef7ba919fe86882c5d",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Army Captain",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/571734.jpg?s=33c2d7869f875b54ae5a655f683a56a1",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Baseball Scout",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/16/571380.jpg?s=e248cd1ab3d7a4b089b2b279713bb00c",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Besoko",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/572685.jpg?s=2e0af2d3b4b23a98da3c177164f2b794",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Betty",
+      "seiyuu": "Kawata, Taeko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/497806.jpg?s=fef87c4caa443aaf998c20cd6512830c",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Black Feudal Lord",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/570897.jpg?s=e90169228dceacffa4f9086864f3face",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Bookstore Owner",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/571036.jpg?s=040354c78fd427896f3177bd9acfecff",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Bookstore Owner #2",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/573201.jpg?s=5481a3beb0388d0ec7ac9909ea723359",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Botako",
+      "seiyuu": "Kurosu, Kaoru",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/497303.jpg?s=e2f36476d6d9052fea5beb6e40293444",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Botako's Friend",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/571028.jpg?s=8f82a47349147d18ebb4072517ebbc4c",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Candy Store Owner",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/570877.jpg?s=72f79ecfe172acce24008dc4810ca64b",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Charles",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/499671.jpg?s=b7500bf7800bdffc7a2c0e7e33709ce9",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Cinderella",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/11/496710.jpg?s=8ebc8357933a67895e14c9ec27e2d35a",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Cook",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/570782.jpg?s=3321a4754529b1464575625267d6e6ea",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Crusher Oiwa",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/8/573166.jpg?s=ad4f8f1bf4382ff4b5c19f34915c559b",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Dekisugi, Hideyo",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/9/496983.jpg?s=d4b88c1aa4c9699ff509f5bda296788b",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Dekisugi, Hidetoshi",
+      "seiyuu": "Shirakawa, Sumiko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/3/507591.jpg?s=8c4d8d2e45c21380a8aba63cd19d4a76",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Dekisugi's Future Wife",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/12/496982.jpg?s=57b54c3337cd4af3430874857f7b37dd",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Devil",
+      "seiyuu": "Desconocido",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/15/571398.jpg?s=f61b1120c3e9d046f3504a884f1faf4f",
+      "rol": "Supporting"
+    },
+    {
+      "nombre": "Dorami",
+      "seiyuu": "Yokozawa, Keiko",
+      "imagen_url": "https://cdn.myanimelist.net/images/characters/6/164663.jpg?s=03bf7d6997125892938c8c3d91e7860d",
+      "rol": "Supporting"
+    }
+  ]
+}
